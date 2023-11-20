@@ -1,0 +1,32 @@
+#NAME • 7,0 W - Maroc • المــــغــرب
+#SERVICE 1:64:4E:0:0:0:0:0:0:0::•••••::| HD |::•••••
+#DESCRIPTION •••••::| HD |::•••••
+#SERVICE 1:64:4F:0:0:0:0:0:0:0::•••••| Sport |•••••
+#DESCRIPTION •••••| Sport |•••••
+#SERVICE 1:0:1:82:9D6C:77E:DCA0000:0:0:0:
+#SERVICE 1:64:50:0:0:0:0:0:0:0::•••••| General |•••••
+#DESCRIPTION •••••| General |•••••
+#SERVICE 1:0:1:BE:9D6C:77E:DCA0000:0:0:0:
+#SERVICE 1:0:1:1:9D08:77E:DCA0000:0:0:0:
+#SERVICE 1:0:1:70:9D6C:77E:DCA0000:0:0:0:
+#SERVICE 1:0:1:66:4E84:77E:DCAAB96:0:0:0:
+#SERVICE 1:64:51:0:0:0:0:0:0:0::•••••| Cultural • Nature |•••••
+#DESCRIPTION •••••| Cultural • Nature |•••••
+#SERVICE 1:0:1:8C:9D6C:77E:DCA0000:0:0:0:
+#SERVICE 1:64:52:0:0:0:0:0:0:0::•••••| News |•••••
+#DESCRIPTION •••••| News |•••••
+#SERVICE 1:0:1:96:9D6C:77E:DCA0000:0:0:0:
+#SERVICE 1:64:53:0:0:0:0:0:0:0::•••••| Others |•••••
+#DESCRIPTION •••••| Others |•••••
+#SERVICE 1:0:1:B4:9D6C:77E:DCA0000:0:0:0:
+#SERVICE 1:64:54:0:0:0:0:0:0:0::•••••| Quran |•••••
+#DESCRIPTION •••••| Quran |•••••
+#SERVICE 1:0:1:A0:9D6C:77E:DCA0000:0:0:0:
+#SERVICE 1:64:55:0:0:0:0:0:0:0::•••••::| SD |::•••••
+#DESCRIPTION •••••::| SD |::•••••
+#SERVICE 1:0:1:3:3C:800:DCA0000:0:0:0:
+#SERVICE 1:0:1:2:9D08:77E:DCA0000:0:0:0:
+#SERVICE 1:0:1:4B8:A0F0:396:DCA0000:0:0:0:
+#SERVICE 1:64:56:0:0:0:0:0:0:0::•••••| Music |•••••
+#DESCRIPTION •••••| Music |•••••
+#SERVICE 1:0:1:8:9C7C:77E:DCA0000:0:0:0:

@@ -1,0 +1,15 @@
+#NAME • 9,0 E - Others • Encrypted
+#SERVICE 1:64:146:0:0:0:0:0:0:0::•••••| Sport |•••••
+#DESCRIPTION •••••| Sport |•••••
+#SERVICE 1:0:1:E:170C:9E:5A0000:0:0:0:
+#SERVICE 1:64:0:0:0:0:0:0:0:0::•••••| General |•••••
+#DESCRIPTION •••••| General |•••••
+#SERVICE 1:0:1:73:170C:9E:5A0000:0:0:0:
+#SERVICE 1:64:147:0:0:0:0:0:0:0::•••••| Entertainment |•••••
+#DESCRIPTION •••••| Entertainment |•••••
+#SERVICE 1:0:1:F:170C:9E:5A0000:0:0:0:
+#SERVICE 1:0:19:479:1AF4:9E:5A0000:0:0:0:
+#SERVICE 1:0:1:165:19C8:9E:5A0000:0:0:0:
+#SERVICE 1:64:148:0:0:0:0:0:0:0::•••••| Music |•••••
+#DESCRIPTION •••••| Music |•••••
+#SERVICE 1:0:1:CE:19C8:9E:5A0000:0:0:0:

@@ -1,0 +1,18 @@
+#NAME • 14,0 W - IRIB
+#SERVICE 1:64:0:0:0:0:0:0:0:0::•••••| General |•••••
+#DESCRIPTION •••••| General |•••••
+#SERVICE 1:0:1:7E:65:E26:D840000:0:0:0:
+#SERVICE 1:0:1:7F:65:E26:D840000:0:0:0:
+#SERVICE 1:64:0:0:0:0:0:0:0:0::•••••| Movies |•••••
+#DESCRIPTION •••••| Movies |•••••
+#SERVICE 1:0:1:85:65:E26:D840000:0:0:0:
+#SERVICE 1:64:0:0:0:0:0:0:0:0::•••••| Children |•••••
+#DESCRIPTION •••••| Children |•••••
+#SERVICE 1:0:1:79:65:E26:D840000:0:0:0:
+#SERVICE 1:64:0:0:0:0:0:0:0:0::•••••| News |•••••
+#DESCRIPTION •••••| News |•••••
+#SERVICE 1:0:1:83:65:E26:D840000:0:0:0:
+#SERVICE 1:0:1:8B:65:E26:D840000:0:0:0:
+#SERVICE 1:64:0:0:0:0:0:0:0:0::•••••| Other |•••••
+#DESCRIPTION •••••| Other |•••••
+#SERVICE 1:0:1:84:65:E26:D840000:0:0:0:
