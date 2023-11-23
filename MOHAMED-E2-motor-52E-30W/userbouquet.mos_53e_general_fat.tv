@@ -1,6 +1,7 @@
 #NAME • 53,0 E - General • FTA
 #SERVICE 1:64:0:0:0:0:0:0:0:0::•••••| General |•••••
 #DESCRIPTION •••••| General |•••••
+#SERVICE 1:0:1:1:1:FFFF:212AAFE:0:0:0:
 #SERVICE 1:0:1:15:1:0:212B173:0:0:0:
 #SERVICE 1:0:1:2:1:0:212B165:0:0:0::Al Sahat TV
 #DESCRIPTION Al Sahat TV
