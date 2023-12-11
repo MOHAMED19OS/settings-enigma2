@@ -59,3 +59,6 @@
 #DESCRIPTION •••••| News |•••••
 #SERVICE 1:0:19:335B:C93:3:EB0000:0:0:0:
 #SERVICE 1:0:19:1328:CA2:3:EB0000:0:0:0:
+#SERVICE 1:64:0:0:0:0:0:0:0:0::•••••| Info • Promo • Test |•••••
+#DESCRIPTION •••••| Info • Promo • Test |•••••
+#SERVICE 1:0:19:3737:C8E:3:EB0000:0:0:0:
