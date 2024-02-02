@@ -162,6 +162,9 @@ fff80000:02cc:0600
 001e3163:0001:ffff
 	s 12643000:5000000:0:7:30:2:0:1:2:0:2
 /
+001e3169:0001:0001
+	s 12649000:5000000:0:7:30:2:0:1:2:0:2
+/
 001f2d95:0001:ffff
 	s 11669000:2500000:0:2:31:2:0:1:2:2:0
 /
@@ -3146,10 +3149,10 @@ p:Service Provider,c:0003e9,c:0103ea,c:0303e9,c:050001
 0001:001e2dae:0001:ffff:1:0:0
 Service-1
 p:Service Provider,c:000134,c:010100,c:030134,c:050001,C:2600
-0001:001e3151:0001:0001:25:0:0
+0001:001e3169:0001:0001:25:0:0
 Echorouk TV HD
 p:TDA,c:000c95,c:010c96,c:030c95,c:050001
-07e5:001e3151:0001:0001:1:0:0
+07e5:001e3169:0001:0001:1:0:0
 Echorouk News
 p:TDA,c:000c8b,c:010c8c,c:030c8b,c:050001
 00dc:00300000:0002:0055:25:0:0
@@ -4485,7 +4488,7 @@ p:KABELIO.CH,f:1000
 Kabelio Channel 5
 p:KABELIO.CH,f:1000
 3760:00820000:06a4:013e:25:0:0
-Kabelio Viaplay Xtra
+Kabelio ITV3
 p:KABELIO.CH,c:001299,c:031299,c:04129a,c:050001,C:4afc,f:1000
 3764:00820000:06a4:013e:25:0:0
 Kabelio ITV4
@@ -4504,6 +4507,9 @@ Kabelio ITV2
 p:KABELIO.CH
 3769:00820000:06a4:013e:1:0:0
 Kabelio Film 4
+p:KABELIO.CH
+376a:00820000:06a4:013e:1:0:0
+Kabelio RTL9 CH
 p:KABELIO.CH
 332d:00820000:1388:013e:1:0:0
 DW English HD
@@ -5431,7 +5437,7 @@ Kabelio ServusTV
 p:KABELIO.CH,c:000493,c:030493,c:040494,c:050001,C:4afc
 0076:00820000:3264:013e:1:0:0
 Kabelio ORF Sport+
-p:KABELIO.CH
+p:KABELIO.CH,c:00049d,c:03049d,c:04049e,c:050001,C:4afc
 007f:00820000:3264:013e:25:0:0
 Kabelio KabelEins CH
 p:KABELIO.CH,f:1000
@@ -9817,9 +9823,9 @@ Animal Planet HD
 p:,c:000032,c:010033,c:030032,c:050001,C:0500,C:092f,C:0952
 0259:01860000:146c:00a7:25:0:0
 Discovery Channel HD
-p:,c:000065,c:0100c9,c:030065,c:050001,C:0500,C:092f,C:0952
+p:,c:000065,c:0100c9,c:030065,c:050001,C:0000
 025b:01860000:146c:00a7:25:0:0
-Travel Channel HD
+HGTV HD
 p:,C:0000
 025c:01860000:146c:00a7:25:0:0
 Eurosport 1 HD
@@ -13671,5 +13677,5 @@ p:,c:001041,c:011044,c:031041,c:050007
 4K-HERiTAGE
 p:iChannel LTD,c:000107,c:030107,c:050007,c:150108
 end
-# 938 transponders and 3618 services.
-# Created by E-Channelizer v19.0.0.223 on 24 Jan, 2024 at 20:26 - https://www.echannelizer.com
+# 939 transponders and 3619 services.
+# Created by E-Channelizer v19.0.0.223 on 02 Feb, 2024 at 14:18 - https://www.echannelizer.com
