@@ -199,7 +199,7 @@ fff80000:02cc:0600
 	s 12437000:30000000:1:2:48:2:0:1:2:0:2
 /
 00300000:0035:0055
-	s 12245000:30000000:1:2:48:2:0:1:2:0:2:1:1:1:1:1:1:1
+	s 12245000:30000000:1:2:48:2:0:1:2:0:2:1:1:1:1:1:1:1:1
 /
 00300000:0065:0001
 	s 12226000:31428000:0:8:48:2:0:1:1:0:2
@@ -247,7 +247,7 @@ fff80000:02cc:0600
 	s 10887000:30000000:0:2:70:2:0:1:2:0:2
 /
 00460000:5208:007e
-	s 10928000:30000000:0:3:70:2:0:1:2:0:2:1:1:1:1:1:1:1
+	s 10928000:30000000:0:3:70:2:0:1:2:0:2:1:1:1:1:1:1:1:1
 /
 00460000:526c:007e
 	s 10887000:30000000:1:4:70:2:0:1:1:0:2
@@ -2806,7 +2806,7 @@ fff80000:02cc:0600
 	s 12456000:30000000:1:3:-8:2:0:1:2:0:2
 /
 0e080000:0afa:00bb
-	s 12563000:28800000:1:7:-8:2:0:1:1:1:2
+	s 12563000:28800000:1:7:-8:2:0:1:1:0:2
 /
 0e080000:0afb:00bb
 	s 12607000:28800000:1:7:-8:2:0:1:1:0:2
@@ -2822,17 +2822,11 @@ services
 7aa9:fff80000:02cc:0600:25:0:0
 Sport 2 HD
 p:M7
-7aaa:fff80000:02cc:0600:22:0:0
-Arena Sport 1 HD
-p:M7
 7aab:fff80000:02cc:0600:25:0:0
 History HD
 p:M7
 7aad:fff80000:02cc:0600:25:0:0
 JOJ Sport HD
-p:M7
-7ab2:fff80000:02cc:0600:25:0:0
-CT: D/Art HD
 p:M7
 7ab7:fff80000:02cc:0600:25:0:0
 Sport 1 HD CZ
@@ -3178,6 +3172,9 @@ Viasat Kino Megahit
 p:VIASAT,C:0000
 09d9:00300000:0018:0044:25:0:0
 Epic Drama HD
+p:VIASAT,c:00145b,c:03145b,c:050001,c:100003,c:11145c,c:14145c,C:0b00,C:5604
+09e3:00300000:0018:0044:31:0:0
+UPL.TV
 p:VIASAT
 09e5:00300000:0018:0044:22:0:0
 Discovery ID
@@ -3197,7 +3194,7 @@ p:VIASAT,C:0000
 09fd:00300000:0018:0044:25:0:0
 Cine+ HIT HD
 p:VIASAT,c:0015c3,c:0315c3,c:050001,C:5604,c:1515c4
-0a19:00300000:0018:0044:25:0:0
+0a19:00300000:0018:0044:31:0:0
 Hollywood HD
 p:VIASAT
 0a5a:00300000:0018:0044:25:0:0
@@ -4072,13 +4069,13 @@ Science Europe HD
 p:Warner Bros. Discovery,c:00164f,c:011659,c:021675,c:03164f,c:050001,c:09167c0200,C:0500,f:1000
 16a8:005a0000:c3aa:009e:1:0:0
 Food Network EMEA HD
-p:Harmonic
+p:Warner Bros. Discovery
 170c:005a0000:c3aa:009e:25:0:0
 TLC Pan Regional HD
 p:Warner Bros. Discovery,c:001717,c:011721,c:031717,c:050001,c:09174c0202,C:0500
 1838:005a0000:c3be:009e:25:0:0
 Discovery Hungary HD
-p:Warner Bros. Discovery,c:001843,c:01184f,c:021869,c:031843,c:050001,C:0500
+p:Warner Bros. Discovery,c:001843,c:01184f,c:021869,c:031843,c:050001,C:0000
 189c:005a0000:c3be:009e:25:0:0
 Discovery Turkey HD
 p:Warner Bros. Discovery,c:0018a7,c:0118b2,c:0318a7,c:050001,C:0500
@@ -4087,7 +4084,10 @@ Cartoonito CEE HD
 p:Warner Bros. Discovery
 1964:005a0000:c3be:009e:1:0:0
 Cartoon Network CEE HD
-p:Harmonic
+p:Harmonic,c:00196f,c:011979,c:021997,c:03196f,c:050001,c:0919978808,C:0500
+1a2c:005a0000:c3be:009e:25:0:0
+Warner TV Czech HD
+p:Warner Bros. Discovery
 0460:00640000:0001:0002:1:0:0
 ZAP Viva Internacional
 p:ERICSSON Television,c:000461,c:010462,c:020111,c:0304bb,c:050001
@@ -7927,6 +7927,9 @@ Canal+ Sport 4 TEST
 p:M7 Group,c:000db6,c:010dc0,c:030db6,c:050001,C:0500,C:0624,C:0653,C:0b02,C:181d
 3c29:00eb0000:0c90:0003:25:0:0
 Arena Sport 1 HD
+p:M7 Group,C:0000
+3c2b:00eb0000:0c90:0003:25:0:0
+JOJ Svet HD
 p:M7 Group,C:0000
 3c2c:00eb0000:0c90:0003:25:0:0
 Cinemax HD
@@ -13531,7 +13534,7 @@ Nova Sport 4 HD
 p:Slovak Telekom,c:00057a,c:03057a,c:050001,c:100003,c:11057c,c:14057c,C:0b1c,C:1882,C:1886
 07df:0e080000:0af2:00bb:25:0:0
 Eurosport 1 HD
-p:Slovak Telekom,c:0005de,c:0105e2,c:0305de,c:050001,C:1802,C:1880,C:1882,C:1886,f:1000
+p:Slovak Telekom,c:0005de,c:0105e2,c:0305de,c:050001,C:1802,C:1807,C:1879,C:1880,C:1882,C:1886,f:1000
 07e0:0e080000:0af2:00bb:25:0:0
 Eurosport 2 HD
 p:Slovak Telekom,c:000642,c:010644,c:030642,c:050001,C:1802,C:1880,C:1882,C:1886,f:1000
@@ -13573,6 +13576,9 @@ Prima Krimi HD
 p:Slovak Telekom
 0fb0:0e080000:0af4:00bb:25:0:0
 HBO 2 HD
+p:Slovak Telekom
+0fb2:0e080000:0af4:00bb:25:0:0
+JOJ Svet HD
 p:Slovak Telekom
 0fb4:0e080000:0af4:00bb:25:0:0
 PREMIER SPORT 1 CZ HD
@@ -13631,38 +13637,38 @@ p:Slovak Telekom,c:000516,c:030516,c:050001,c:100003,c:110517,c:140517,C:0000
 1b66:0e080000:0af7:00bb:25:0:0
 Prima COOL HD
 p:Slovak Telekom,c:00057a,c:03057a,c:050001,c:100003,c:11057b,c:14057b,C:0b1c,C:1882,C:1886
-1b67:0e080000:0af7:00bb:25:0:0
-Prima MAX HD
-p:Slovak Telekom,c:0005de,c:0305de,c:050001,c:100003,c:1105df,c:1405df,C:0b1c,C:1882,C:1886
-1b68:0e080000:0af7:00bb:25:0:0
-JOJ 24 HD
-p:Slovak Telekom
-1b69:0e080000:0af7:00bb:25:0:0
-Nova Cinema HD
-p:Slovak Telekom,c:0006a6,c:0306a6,c:050001,c:100003,c:1106a7,c:1406a7,C:1882,C:1886,c:1506a7
 1f4d:0e080000:0af8:00bb:25:0:0
 Spektrum SK HD
 p:Slovak Telekom,c:000516,c:010517,c:030516,c:050001,C:0653,C:0b02,C:0b1c,C:0d97,C:1815,C:1882,C:1886
 1f4e:0e080000:0af8:00bb:25:0:0
 AMC SK HD
 p:Slovak Telekom
-1f4f:0e080000:0af8:00bb:25:0:0
-Travel Channel HD
+2333:0e080000:0af9:00bb:25:0:0
+Arena Sport HD
 p:Slovak Telekom
 2334:0e080000:0af9:00bb:25:0:0
 CT Sport HD
 p:Slovak Telekom,c:0004b2,c:0304b2,c:050001,c:100003,c:1104b3,c:1404b3,C:0000
 2335:0e080000:0af9:00bb:25:0:0
 Animal Planet HD
-p:Slovak Telekom,C:0000
+p:Slovak Telekom,c:000516,c:030516,c:050001,c:100003,c:110518,c:140518,C:1882,C:1886
+2336:0e080000:0af9:00bb:25:0:0
+Nova Cinema HD
+p:Slovak Telekom
+2337:0e080000:0af9:00bb:22:0:0
+Prima MAX HD
+p:Slovak Telekom
 2338:0e080000:0af9:00bb:25:0:0
-M1 HD
+Prima COOL HD
 p:Slovak Telekom,c:000642,c:020655,c:030642,c:040643,c:050001,C:0000
 233c:0e080000:0af9:00bb:25:0:0
 Nova Sport 1 HD
 p:Slovak Telekom,c:0007d2,c:0307d2,c:050001,c:100003,c:1107d4,c:1407d4,C:0000
+233e:0e080000:0af9:00bb:25:0:0
+Travel Channel HD
+p:Slovak Telekom
 2340:0e080000:0af9:00bb:25:0:0
-RTL HU HD
+Prima LOVE HD
 p:Slovak Telekom,c:000962,c:030962,c:050001,c:100003,c:110221,c:140221,C:0000
 2342:0e080000:0af9:00bb:22:0:0
 TV RiK
@@ -13670,9 +13676,15 @@ p:Slovak Telekom,C:0000
 271b:0e080000:0afa:00bb:25:0:0
 CNN Prima News HD
 p:Slovak Telekom
+271e:0e080000:0afa:00bb:25:0:0
+CT :D/ CT Art HD
+p:Slovak Telekom
+271f:0e080000:0afa:00bb:25:0:0
+JOJ 24 HD
+p:Slovak Telekom
 2721:0e080000:0afa:00bb:25:0:0
 RTVS Sport HD
-p:Slovak Telekom,c:0006a6,c:0206b6,c:0306a6,c:050001,c:100003,c:1106a7,c:1406a7,C:0b1c,C:1882,C:1886
+p:Slovak Telekom,c:0006a6,c:0206b6,c:0306a6,c:050001,c:100003,c:1106a7,c:1406a7,C:0653,C:0b02,C:0d97,C:1815,C:1882,C:1886
 2b06:0e080000:0afb:00bb:25:0:0
 CANAL+ Sport HD
 p:Slovak Telekom,c:00057a,c:03057a,c:050001,c:100003,c:11057b,c:14057b,C:1882,C:1886,c:15057b
@@ -13695,5 +13707,5 @@ p:,c:001041,c:011044,c:031041,c:050007
 4K-HERiTAGE
 p:iChannel LTD,c:000107,c:030107,c:050007,c:150108
 end
-# 939 transponders and 3625 services.
-# Created by E-Channelizer v19.0.0.223 on 22 Feb, 2024 at 22:56 - https://www.echannelizer.com
+# 939 transponders and 3629 services.
+# Created by E-Channelizer v19.0.0.223 on 27 Feb, 2024 at 19:13 - https://www.echannelizer.com
