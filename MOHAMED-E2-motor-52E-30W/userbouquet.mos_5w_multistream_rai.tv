@@ -1,0 +1,26 @@
+#NAME • 5,0 W - RAI • Multistream
+#SERVICE 1:64:B8:0:0:0:0:0:0:0::•••••| Sport |•••••
+#DESCRIPTION •••••| Sport |•••••
+#SERVICE 1:0:19:3E9:1:217C:DDE0000:0:0:0:
+#SERVICE 1:64:B9:0:0:0:0:0:0:0::•••••| General |•••••
+#DESCRIPTION •••••| General |•••••
+#SERVICE 1:0:19:579:AD:217C:DDE0000:0:0:0:
+#SERVICE 1:0:19:57A:AD:217C:DDE0000:0:0:0:
+#SERVICE 1:0:19:41B:2:217C:DDE0000:0:0:0:
+#SERVICE 1:0:16:3EE:1:217C:DDE0000:0:0:0:
+#SERVICE 1:64:0:0:0:0:0:0:0:0::•••••| Movies |•••••
+#DESCRIPTION •••••| Movies |•••••
+#SERVICE 1:0:19:403:1:217C:DDE0000:0:0:0:
+#SERVICE 1:64:0:0:0:0:0:0:0:0::•••••| Cultural • Nature |•••••
+#DESCRIPTION •••••| Cultural • Nature |•••••
+#SERVICE 1:0:16:3EF:1:217C:DDE0000:0:0:0:
+#SERVICE 1:64:0:0:0:0:0:0:0:0::•••••| Children |•••••
+#DESCRIPTION •••••| Children |•••••
+#SERVICE 1:0:16:3EC:1:217C:DDE0000:0:0:0:
+#SERVICE 1:0:16:3ED:1:217C:DDE0000:0:0:0:
+#SERVICE 1:64:0:0:0:0:0:0:0:0::•••••| News |•••••
+#DESCRIPTION •••••| News |•••••
+#SERVICE 1:0:19:3F1:1:217C:DDE0000:0:0:0:
+#SERVICE 1:64:BC:0:0:0:0:0:0:0::•••••| HbbTv  |•••••
+#DESCRIPTION •••••| HbbTv  |•••••
+#SERVICE 1:0:16:3FF:1:217C:DDE0000:0:0:0:

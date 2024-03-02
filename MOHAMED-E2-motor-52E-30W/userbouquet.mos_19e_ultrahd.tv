@@ -1,0 +1,24 @@
+#NAME • 19,2 E - UltraHD 4K
+#SERVICE 1:64:207:0:0:0:0:0:0:0::•••••| CSat France |•••••
+#DESCRIPTION •••••| CSat France |•••••
+#SERVICE 1:0:1F:2661:460:1:C00000:0:0:0:
+#SERVICE 1:0:1F:2662:460:1:C00000:0:0:0:
+#SERVICE 1:64:208:0:0:0:0:0:0:0::•••••| Sky Deutschland |•••••
+#DESCRIPTION •••••| Sky Deutschland |•••••
+#SERVICE 1:0:1F:2:40B:1:C02AF2:0:0:0:
+#SERVICE 1:0:1F:183D:40B:1:C02AF2:0:0:0:
+#SERVICE 1:64:209:0:0:0:0:0:0:0::•••••| German |•••••
+#DESCRIPTION •••••| German |•••••
+#SERVICE 1:0:1F:1086:3EE:1:C00000:0:0:0:
+#SERVICE 1:64:20A:0:0:0:0:0:0:0::•••••| Europe • West |•••••
+#DESCRIPTION •••••| Europe • West |•••••
+#SERVICE 1:0:1F:7DA:449:1:C00000:0:0:0:
+#SERVICE 1:0:1F:307A:3F5:1:C00000:0:0:0:
+#SERVICE 1:64:20B:0:0:0:0:0:0:0::•••••| Info • Promo • Test |•••••
+#DESCRIPTION •••••| Info • Promo • Test |•••••
+#SERVICE 1:0:1F:1:40B:1:C02AF2:0:0:0:
+#SERVICE 1:0:1F:3:40B:1:C02AF2:0:0:0:
+#SERVICE 1:0:1F:4:40B:1:C02AF2:0:0:0:
+#SERVICE 1:0:1F:5:40B:1:C02AF2:0:0:0:
+#SERVICE 1:0:1F:6:40B:1:C02AF2:0:0:0:
+#SERVICE 1:0:1F:7:40B:1:C02AF2:0:0:0:

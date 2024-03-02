@@ -1,0 +1,24 @@
+#NAME • 13,0 E - Asia • Oriental
+#SERVICE 1:64:0:0:0:0:0:0:0:0::•••••::| South Korea |::•••••
+#DESCRIPTION •••••::| South Korea |::•••••
+#SERVICE 1:0:1:3332:1388:13E:820000:0:0:0:
+#SERVICE 1:64:188:0:0:0:0:0:0:0::•••••::| China |::•••••
+#DESCRIPTION •••••::| China |::•••••
+#SERVICE 1:64:189:0:0:0:0:0:0:0::•••••| General |•••••
+#DESCRIPTION •••••| General |•••••
+#SERVICE 1:0:1:36D:3C28:13E:82AD41:0:0:0:
+#SERVICE 1:0:1:367:3C28:13E:82AD41:0:0:0:
+#SERVICE 1:0:1:368:3C28:13E:82AD41:0:0:0:
+#SERVICE 1:0:1:36A:3C28:13E:82AD41:0:0:0:
+#SERVICE 1:0:1:36B:3C28:13E:82AD41:0:0:0:
+#SERVICE 1:0:1:36C:3C28:13E:82AD41:0:0:0:
+#SERVICE 1:64:18A:0:0:0:0:0:0:0::•••••| Cultural • Nature |•••••
+#DESCRIPTION •••••| Cultural • Nature |•••••
+#SERVICE 1:0:1:369:3C28:13E:82AD41:0:0:0:
+#SERVICE 1:64:18B:0:0:0:0:0:0:0::•••••::| Japan |::•••••
+#DESCRIPTION •••••::| Japan |::•••••
+#SERVICE 1:0:19:215:384:13E:820000:0:0:0:
+#SERVICE 1:64:18C:0:0:0:0:0:0:0::•••••::| Kurdistan |::•••••
+#DESCRIPTION •••••::| Kurdistan |::•••••
+#SERVICE 1:0:1:1FC:384:13E:820000:0:0:0:
+#SERVICE 1:0:1:1FA:384:13E:820000:0:0:0:

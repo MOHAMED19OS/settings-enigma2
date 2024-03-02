@@ -1,0 +1,11 @@
+#NAME • 42,0 E - TWDC • Türkiye
+#SERVICE 1:64:2E3:0:0:0:0:0:0:0::•••••| Entertainment |•••••
+#DESCRIPTION •••••| Entertainment |•••••
+#SERVICE 1:0:1:3333:A1BC:1:1A40000:0:0:0:
+#SERVICE 1:64:2E4:0:0:0:0:0:0:0::•••••| Cultural • Nature |•••••
+#DESCRIPTION •••••| Cultural • Nature |•••••
+#SERVICE 1:0:1:3332:A1BC:1:1A40000:0:0:0:
+#SERVICE 1:0:1:3331:A1BC:1:1A40000:0:0:0:
+#SERVICE 1:64:2E5:0:0:0:0:0:0:0::•••••| Children |•••••
+#DESCRIPTION •••••| Children |•••••
+#SERVICE 1:0:1:3334:A1BC:1:1A40000:0:0:0:

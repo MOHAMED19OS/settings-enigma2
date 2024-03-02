@@ -1,0 +1,12 @@
+#NAME • 0,8 W - TV 5 Monde • PowerVu
+#SERVICE 1:64:ED:0:0:0:0:0:0:0::•••••| General |•••••
+#DESCRIPTION •••••| General |•••••
+#SERVICE 1:0:1:412:519:2:E080000:0:0:0:
+#SERVICE 1:0:1:413:519:2:E080000:0:0:0:
+#SERVICE 1:0:1:40E:519:2:E080000:0:0:0::TV5 Monde Afrique
+#DESCRIPTION TV5 Monde Afrique
+#SERVICE 1:0:1:414:519:2:E080000:0:0:0:
+#SERVICE 1:0:1:416:519:2:E080000:0:0:0:
+#SERVICE 1:64:EE:0:0:0:0:0:0:0::•••••| Children |•••••
+#DESCRIPTION •••••| Children |•••••
+#SERVICE 1:0:19:407:519:2:E080000:0:0:0:

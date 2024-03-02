@@ -1,0 +1,38 @@
+#NAME • 26,0 E - Al • Majd Network
+#SERVICE 1:64:271:0:0:0:0:0:0:0::•••••| General |•••••
+#DESCRIPTION •••••| General |•••••
+#SERVICE 1:0:1:1:22F:510:1040000:0:0:0::Space Channel
+#DESCRIPTION Space Channel
+#SERVICE 1:0:1:2:22F:510:1040000:0:0:0::Quran
+#DESCRIPTION Quran
+#SERVICE 1:0:1:3:22F:510:1040000:0:0:0::Al Hadeeth Al Nabawy
+#DESCRIPTION Al Hadeeth Al Nabawy
+#SERVICE 1:0:1:C:22F:510:1040000:0:0:0::Taghareed TV
+#DESCRIPTION Taghareed TV
+#SERVICE 1:0:1:D:22F:510:1040000:0:0:0::Masat
+#DESCRIPTION Masat
+#SERVICE 1:0:1:4:22F:510:1040000:0:0:0::3elmyah
+#DESCRIPTION 3elmyah
+#SERVICE 1:64:272:0:0:0:0:0:0:0::•••••| Cultural • Nature |•••••
+#DESCRIPTION •••••| Cultural • Nature |•••••
+#SERVICE 1:0:1:6:22F:510:1040000:0:0:0::Documentary
+#DESCRIPTION Documentary
+#SERVICE 1:0:1:7:22F:510:1040000:0:0:0::Al Tabeeaiyah
+#DESCRIPTION Al Tabeeaiyah
+#SERVICE 1:64:273:0:0:0:0:0:0:0::•••••| Children |•••••
+#DESCRIPTION •••••| Children |•••••
+#SERVICE 1:0:1:9:22F:510:1040000:0:0:0::Almajd Kids
+#DESCRIPTION Almajd Kids
+#SERVICE 1:0:1:A:22F:510:1040000:0:0:0::Basmah
+#DESCRIPTION Basmah
+#SERVICE 1:0:1:B:22F:510:1040000:0:0:0:
+#SERVICE 1:64:274:0:0:0:0:0:0:0::•••••| News |•••••
+#DESCRIPTION •••••| News |•••••
+#SERVICE 1:0:1:5:22F:510:1040000:0:0:0:
+#SERVICE 1:64:275:0:0:0:0:0:0:0::•••••| Others |•••••
+#DESCRIPTION •••••| Others |•••••
+#SERVICE 1:0:1:65:22F:510:1040000:0:0:0:
+#SERVICE 1:0:1:8:22F:510:1040000:0:0:0:
+#SERVICE 1:64:276:0:0:0:0:0:0:0::•••••| Feeds |•••••
+#DESCRIPTION •••••| Feeds |•••••
+#SERVICE 1:0:1:10:22F:510:1040000:0:0:0:

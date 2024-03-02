@@ -1,0 +1,20 @@
+#NAME • 52,5 E - Gulf • الخــــلــيــــج
+#SERVICE 1:64:302:0:0:0:0:0:0:0::•••••::| Saudi :★: الســعوديــة  |::•••••
+#DESCRIPTION •••••::| Saudi :★: الســعوديــة  |::•••••
+#SERVICE 1:64:303:0:0:0:0:0:0:0::•••••| General |•••••
+#DESCRIPTION •••••| General |•••••
+#SERVICE 1:0:1:A29:1A:2BE:20D2DE3:0:0:0:
+#SERVICE 1:0:1:15E3:1A:2BE:20D2DE3:0:0:0:
+#SERVICE 1:0:1:A2A:1A:2BE:20D2DE3:0:0:0:
+#SERVICE 1:64:304:0:0:0:0:0:0:0::•••••| Quran |•••••
+#DESCRIPTION •••••| Quran |•••••
+#SERVICE 1:0:1:15E2:1A:2BE:20D2DE3:0:0:0:
+#SERVICE 1:0:1:15E1:1A:2BE:20D2DE3:0:0:0:
+#SERVICE 1:64:305:0:0:0:0:0:0:0::•••••| Sport |•••••
+#DESCRIPTION •••••| Sport |•••••
+#SERVICE 1:0:1:A2B:1A:2BE:20D2DE3:0:0:0:
+#SERVICE 1:0:1:15E5:1A:2BE:20D2DE3:0:0:0:
+#SERVICE 1:0:1:15E4:1A:2BE:20D2DE3:0:0:0:
+#SERVICE 1:64:306:0:0:0:0:0:0:0::•••••| News |•••••
+#DESCRIPTION •••••| News |•••••
+#SERVICE 1:0:1:A2C:1A:2BE:20D2DE3:0:0:0:

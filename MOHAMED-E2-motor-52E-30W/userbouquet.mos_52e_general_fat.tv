@@ -1,0 +1,8 @@
+#NAME • 52,5 E - General • FTA
+#SERVICE 1:64:2FE:0:0:0:0:0:0:0::•••••| General |•••••
+#DESCRIPTION •••••| General |•••••
+#SERVICE 1:0:1:14CD:E:20D:20D0000:0:0:0:
+#SERVICE 1:64:300:0:0:0:0:0:0:0::•••••| News |•••••
+#DESCRIPTION •••••| News |•••••
+#SERVICE 1:0:19:14C6:E:20D:20D0000:0:0:0:
+#SERVICE 1:0:1:14C8:E:20D:20D0000:0:0:0:

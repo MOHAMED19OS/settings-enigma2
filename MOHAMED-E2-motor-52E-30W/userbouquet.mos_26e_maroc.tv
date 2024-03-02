@@ -1,0 +1,18 @@
+#NAME • 26,0 E - Maroc • المــــغــرب
+#SERVICE 1:64:244:0:0:0:0:0:0:0::•••••| Sport |•••••
+#DESCRIPTION •••••| Sport |•••••
+#SERVICE 1:0:1:1F:320:2BE:1040000:0:0:0:
+#SERVICE 1:64:245:0:0:0:0:0:0:0::•••••| General |•••••
+#DESCRIPTION •••••| General |•••••
+#SERVICE 1:0:19:12:146F:2BE:1040000:0:0:0:
+#SERVICE 1:0:1:10:146F:2BE:1040000:0:0:0:
+#SERVICE 1:0:1:1:320:2BE:1040000:0:0:0:
+#SERVICE 1:0:1:C:320:2BE:1040000:0:0:0:
+#SERVICE 1:0:1:50:320:2BE:1040000:0:0:0:
+#SERVICE 1:0:1:B:146F:2BE:1040000:0:0:0:
+#SERVICE 1:64:246:0:0:0:0:0:0:0::•••••| Entertainment |•••••
+#DESCRIPTION •••••| Entertainment |•••••
+#SERVICE 1:0:1:28:320:2BE:1040000:0:0:0:
+#SERVICE 1:64:247:0:0:0:0:0:0:0::•••••| News |•••••
+#DESCRIPTION •••••| News |•••••
+#SERVICE 1:0:1:32:320:2BE:1040000:0:0:0:

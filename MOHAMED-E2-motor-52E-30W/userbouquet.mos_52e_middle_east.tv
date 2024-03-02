@@ -1,0 +1,31 @@
+#NAME • 52,5 E - Middle East • الشرق الاوسط
+#SERVICE 1:64:307:0:0:0:0:0:0:0::•••••::| Iran :★: ايـــــرانــــ |: :•••••
+#DESCRIPTION •••••::| Iran :★: ايـــــرانــــ |: :•••••
+#SERVICE 1:64:308:0:0:0:0:0:0:0::•••••| General |•••••
+#DESCRIPTION •••••| General |•••••
+#SERVICE 1:0:1:66:1:20D:20DAEDC:0:0:0:
+#SERVICE 1:0:1:6E:1:20D:20DAEDC:0:0:0:
+#SERVICE 1:0:1:1:4:1:20DAF75:0:0:0:
+#SERVICE 1:0:1:10:7:1:20DAF02:0:0:0:
+#SERVICE 1:0:1:1C:7:1:20DAF02:0:0:0:
+#SERVICE 1:0:1:3:4:1:20DAF75:0:0:0:
+#SERVICE 1:0:1:4F:1:1:20DADF6:0:0:0:
+#SERVICE 1:64:309:0:0:0:0:0:0:0::•••••| Movies |•••••
+#DESCRIPTION •••••| Movies |•••••
+#SERVICE 1:0:1:B:7:1:20DAF02:0:0:0:
+#SERVICE 1:0:1:C:7:1:20DAF02:0:0:0:
+#SERVICE 1:0:1:E:7:1:20DAF02:0:0:0:
+#SERVICE 1:64:30A:0:0:0:0:0:0:0::•••••| Entertainment |•••••
+#DESCRIPTION •••••| Entertainment |•••••
+#SERVICE 1:0:1:1A:2:1:20DAEB6:0:0:0:
+#SERVICE 1:0:1:47:4:1:20DAF75:0:0:0:
+#SERVICE 1:0:1:13:7:1:20DAF02:0:0:0:
+#SERVICE 1:0:1:3A:3:1:20DAF29:0:0:0:
+#SERVICE 1:0:1:11:7:1:20DAF02:0:0:0:
+#SERVICE 1:64:30B:0:0:0:0:0:0:0::•••••| Religious |•••••
+#DESCRIPTION •••••| Religious |•••••
+#SERVICE 1:0:1:13:4:1:20DAF75:0:0:0:
+#SERVICE 1:64:30C:0:0:0:0:0:0:0::•••••| Music |•••••
+#DESCRIPTION •••••| Music |•••••
+#SERVICE 1:0:1:16:7:1:20DAF02:0:0:0:
+#SERVICE 1:0:1:F:7:1:20DAF02:0:0:0:

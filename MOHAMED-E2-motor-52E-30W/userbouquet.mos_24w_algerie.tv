@@ -1,0 +1,29 @@
+#NAME • 24,8 W - Algérie • الجـــــــزائــــر
+#SERVICE 1:64:1E:0:0:0:0:0:0:0::•••••| General |•••••
+#DESCRIPTION •••••| General |•••••
+#SERVICE 1:0:1:7E6:1:FFFF:D1B3048:0:0:0:
+#SERVICE 1:0:19:7EA:1:FFFF:D1B3048:0:0:0:
+#SERVICE 1:0:19:1:1:FFFF:D1B2F80:0:0:0::Programme National
+#DESCRIPTION Programme National
+#SERVICE 1:0:19:2:1:FFFF:D1B2F80:0:0:0::Canal Algerie
+#DESCRIPTION Canal Algerie
+#SERVICE 1:0:19:19:1:FFFF:D1B2F80:0:0:0::El Ikhbaria
+#DESCRIPTION El Ikhbaria
+#SERVICE 1:0:1:7:1:FFFF:D1B2F80:0:0:0::El Maarifa
+#DESCRIPTION El Maarifa
+#SERVICE 1:0:19:8:1:FFFF:D1B2F80:0:0:0::Edhakira
+#DESCRIPTION Edhakira
+#SERVICE 1:0:19:6:1:FFFF:D1B2F80:0:0:0:
+#SERVICE 1:64:1F:0:0:0:0:0:0:0::•••••| Others |•••••
+#DESCRIPTION •••••| Others |•••••
+#SERVICE 1:0:1:9:2:FFFF:D1B2F80:0:0:0:
+#SERVICE 1:0:19:4:1:FFFF:D1B2F80:0:0:0::TV Tamazight
+#DESCRIPTION TV Tamazight
+#SERVICE 1:64:20:0:0:0:0:0:0:0::•••••| Quran |•••••
+#DESCRIPTION •••••| Quran |•••••
+#SERVICE 1:0:1:5:1:FFFF:D1B2F80:0:0:0::TV Coran
+#DESCRIPTION TV Coran
+#SERVICE 1:64:22:0:0:0:0:0:0:0::•••••| News |•••••
+#DESCRIPTION •••••| News |•••••
+#SERVICE 1:0:1:CFD:1:FFFF:D1B3048:0:0:0:
+#SERVICE 1:0:1:7E5:1:FFFF:D1B3048:0:0:0:
