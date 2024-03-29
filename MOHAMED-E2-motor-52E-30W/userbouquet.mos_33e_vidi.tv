@@ -29,6 +29,8 @@
 #DESCRIPTION K3 (Bosnia)
 #SERVICE 1:0:1:FA9:190:7FE:14A2CB2:0:0:0:http%3a//0.0.0.0%3a9999/dasto0/11442plp0:RTV TK
 #DESCRIPTION RTV TK
+#SERVICE 1:0:1:FB1:2CB2:21:0:0:0:0:http%3a//0.0.0.0%3a9999/dasto0/11442plp0:NTV Arena
+#DESCRIPTION NTV Arena
 #SERVICE 1:64:0:0:0:0:0:0:0:0::•••••| Entertainment |•••••
 #DESCRIPTION •••••| Entertainment |•••••
 #SERVICE 1:0:1:FA3:190:7FE:14A2CB2:0:0:0:http%3a//0.0.0.0%3a9999/dasto0/11442plp0:NOVA BH
