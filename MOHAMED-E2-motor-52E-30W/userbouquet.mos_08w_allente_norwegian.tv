@@ -17,6 +17,7 @@
 #DESCRIPTION •••••| Entertainment |•••••
 #SERVICE 1:0:19:1B9D:44:46:E080000:0:0:0:
 #SERVICE 1:0:19:1D31:3:46:E080000:0:0:0:
+#SERVICE 1:0:19:1D47:48:46:E080000:0:0:0:
 #SERVICE 1:64:D9:0:0:0:0:0:0:0::•••••| General |•••••
 #DESCRIPTION •••••| General |•••••
 #SERVICE 1:0:19:1C43:4:46:E080000:0:0:0:
@@ -33,7 +34,7 @@
 #SERVICE 1:64:DA:0:0:0:0:0:0:0::•••••| Cultural • Nature |•••••
 #DESCRIPTION •••••| Cultural • Nature |•••••
 #SERVICE 1:0:19:1C3B:21:46:E080000:0:0:0:
-#SERVICE 1:0:19:447:18:46:E080000:0:0:0:
+#SERVICE 1:0:19:1C80:A:46:E080000:0:0:0:
 #SERVICE 1:0:19:1C3F:21:46:E080000:0:0:0:
 #SERVICE 1:64:DB:0:0:0:0:0:0:0::•••••| Religious |•••••
 #DESCRIPTION •••••| Religious |•••••
