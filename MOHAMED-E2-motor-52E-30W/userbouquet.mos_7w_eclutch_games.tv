@@ -1,0 +1,15 @@
+#NAME • 7,0 W - eClutch • Games
+#SERVICE 1:64:0:0:0:0:0:0:0:0::•••••| Children |•••••
+#DESCRIPTION •••••| Children |•••••
+#SERVICE 1:0:1:12E:9CD6:77E:DCA0000:0:0:0:
+#SERVICE 1:0:1:12C:9CD6:77E:DCA0000:0:0:0:
+#SERVICE 1:64:0:0:0:0:0:0:0:0::•••••| Game |•••••
+#DESCRIPTION •••••| Game |•••••
+#SERVICE 1:0:1:130:9CD6:77E:DCA0000:0:0:0:
+#SERVICE 1:0:1:12F:9CD6:77E:DCA0000:0:0:0:
+#SERVICE 1:64:0:0:0:0:0:0:0:0::•••••| News |•••••
+#DESCRIPTION •••••| News |•••••
+#SERVICE 1:0:1:131:9CD6:77E:DCA0000:0:0:0:
+#SERVICE 1:64:0:0:0:0:0:0:0:0::•••••| Other |•••••
+#DESCRIPTION •••••| Other |•••••
+#SERVICE 1:0:1:12D:9CD6:77E:DCA0000:0:0:0:

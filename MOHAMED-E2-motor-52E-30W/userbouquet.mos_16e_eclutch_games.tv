@@ -1,0 +1,15 @@
+#NAME • 16,0 E - eClutch • Games
+#SERVICE 1:64:0:0:0:0:0:0:0:0::•••••| Children |•••••
+#DESCRIPTION •••••| Children |•••••
+#SERVICE 1:0:19:AA9:9DD0:16E:A00000:0:0:0:
+#SERVICE 1:0:1:3E9:7:16E:A00000:0:0:0:
+#SERVICE 1:64:0:0:0:0:0:0:0:0::•••••| Game |•••••
+#DESCRIPTION •••••| Game |•••••
+#SERVICE 1:0:1:3EC:7:16E:A00000:0:0:0:
+#SERVICE 1:0:1:3ED:7:16E:A00000:0:0:0:
+#SERVICE 1:64:0:0:0:0:0:0:0:0::•••••| News |•••••
+#DESCRIPTION •••••| News |•••••
+#SERVICE 1:0:1:3EB:7:16E:A00000:0:0:0:
+#SERVICE 1:64:0:0:0:0:0:0:0:0::•••••| Other |•••••
+#DESCRIPTION •••••| Other |•••••
+#SERVICE 1:0:1:3EA:7:16E:A00000:0:0:0:
