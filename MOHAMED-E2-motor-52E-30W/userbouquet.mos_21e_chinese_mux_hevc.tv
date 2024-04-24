@@ -23,8 +23,11 @@
 #SERVICE 1:0:1:43:2:1:D7AA68:0:0:0:
 #SERVICE 1:0:1:42:2:1:D7AA68:0:0:0:
 #SERVICE 1:0:1:40:2:1:D7AA68:0:0:0:
-#SERVICE 1:0:1:3F:2:1:D7AA68:0:0:0:
 #SERVICE 1:0:1:41:2:1:D7AA68:0:0:0:
-#SERVICE 1:64:216:0:0:0:0:0:0:0::•••••| Children |•••••
-#DESCRIPTION •••••| Children |•••••
-#SERVICE 1:0:1:3D:2:1:D7AA68:0:0:0:
+#SERVICE 1:0:1:3F:0:0:D7AA68:0:0:0:
+#SERVICE 1:64:0:0:0:0:0:0:0:0::•••••| Movies |•••••
+#DESCRIPTION •••••| Movies |•••••
+#SERVICE 1:0:1:3D:0:0:D7AA68:0:0:0:
+#SERVICE 1:64:0:0:0:0:0:0:0:0::•••••| Cultural • Nature |•••••
+#DESCRIPTION •••••| Cultural • Nature |•••••
+#SERVICE 1:0:1:3E:0:0:D7AA68:0:0:0:
