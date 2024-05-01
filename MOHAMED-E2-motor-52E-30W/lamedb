@@ -1962,6 +1962,9 @@ fff80000:02cc:0600
 01a40000:7bd6:042e
 	s 12685000:30000000:1:2:420:2:0:1:2:0:2
 /
+01a40000:7d6b:042e
+	s 11012000:30000000:0:2:420:2:0:1:2:0:2
+/
 01a40000:7dc9:042e
 	s 11053000:8000000:0:3:420:2:0
 /
@@ -1982,6 +1985,9 @@ fff80000:02cc:0600
 /
 01a40000:a02d:042e
 	s 12084000:13750000:0:2:420:2:0:1:2:0:2
+/
+01a40000:a02d:042e
+	s 12083000:13750000:0:2:420:2:0:1:2:0:2
 /
 01a40000:a155:042e
 	s 12213000:5833000:1:2:420:2:0:1:2:0:2
@@ -4379,6 +4385,9 @@ p:,f:1000
 01fa:00820000:0384:013e:1:0:0
 RUDAW HD
 p:iKO Media Group
+01fb:00820000:0384:013e:25:0:0
+Al Mayadeen HD
+p:
 01fc:00820000:0384:013e:1:0:0
 Kurdistan 24 HD
 p:
@@ -4946,12 +4955,6 @@ p:Telespazio,c:0000f0,c:0100f1,c:0300f0
 02c2:00820000:1b58:013e:1:0:0
 Al Jazeera Mubasher
 p:Telespazio,c:0000fa,c:0100fb,c:0300fa
-02c4:00820000:1b58:013e:1:0:0
-Al Jazeera
-p:Telespazio,c:00010e,c:01010f,c:03010e,f:1000
-02df:00820000:1b58:013e:1:0:0
-AL-MAYADEEN
-p:Telespazio,c:00057b,c:010963,c:03057b
 0311:00820000:1b58:013e:1:0:0
 Mekameleen HD
 p:Telespazio,c:000097,c:010098,c:030097,c:050001
@@ -6497,6 +6500,9 @@ p:DigitALB,c:000871,c:010873,c:030871,c:050001,C:0b00
 03f1:00a00000:50dc:016e:25:0:0
 Travel Channel HD
 p:DigitALB,c:000849,c:01084a,c:030849,c:050001,C:0b00
+05e6:00a00000:50dc:016e:22:0:0
+Arta TV
+p:DigitALB
 0bb8:00a00000:50dc:016e:25:0:0
 Eurosport 2 HD
 p:DigitALB,c:000bb9,c:010bba,c:030bb9,c:050001,C:0b00
@@ -6509,6 +6515,15 @@ p:DigitALB,C:0000
 03ed:00a00000:51a4:016e:25:0:0
 Discovery Science HD
 p:DigitALB,C:0000
+0514:00a00000:51a4:016e:22:0:0
+Zico TV
+p:DigitALB
+0532:00a00000:51a4:016e:22:0:0
+First Channel
+p:DigitALB
+0550:00a00000:51a4:016e:22:0:0
+RTV21M
+p:DigitALB
 0c80:00a00000:51a4:016e:25:0:0
 MTV Live HD
 p:DigitALB
@@ -6950,18 +6965,6 @@ p:T-HT,c:000b35,c:010a35,c:030b35,c:050001,C:069b,C:0b00,C:1830
 025a:00a0accf:c418:016e:25:0:0
 JOJ Sport HD
 p:Antik,C:0000
-0006:00a0b0f9:0001:0001:1:0:0
-First Channel
-p:GMDS
-0007:00a0b0f9:0001:0001:1:0:0
-Arta TV
-p:
-0009:00a0b0f9:0001:0001:1:0:0
-Zico TV
-p:
-000a:00a0b0f9:0001:0001:1:0:0
-RTV21M
-p:GMDS
 0001:00a0b104:0001:0001:1:0:0
 Kanal D
 p:DoganMedia,c:000064,c:01006e,c:030064,C:2600
@@ -11003,6 +11006,9 @@ p:TURKSAT
 c693:01a40000:7bd6:042e:1:0:0
 HALK TV HD
 p:TURKSAT
+cc50:01a40000:7d6b:042e:1:0:0
+PERSIANA TURKIYE
+p:TURKSAT
 2bc6:01a40000:7dc9:042e:1:0:0
 SHOW TURK HD
 p:SHOW TURK HD,c:000853,c:0108b7,c:030853,c:050001
@@ -11075,6 +11081,9 @@ p:TURKSAT,c:001bbe,c:011c22,c:031bbe,c:050001
 cb23:01a40000:a02d:042e:25:0:0
 TRT EBA TV LISE HD
 p:TURKSAT,c:001bbf,c:011c23,c:031bbf,c:050001
+cb25:01a40000:a02d:042e:25:0:0
+TV 100 HD
+p:TURKSAT
 30d4:01a40000:a155:042e:1:0:0
 TVNET HD
 p:Service Provider
@@ -14685,5 +14694,5 @@ p:,c:0004db,c:01053f,c:02034b,c:0304db,c:050001,f:1000
 NASA
 p:,c:001041,c:011044,c:031041,c:050007
 end
-# 977 transponders and 3917 services.
-# Created by E-Channelizer v19.0.0.223 on 30 Apr, 2024 at 20:37 - https://www.echannelizer.com
+# 979 transponders and 3918 services.
+# Created by E-Channelizer v19.0.0.223 on 01 May, 2024 at 19:59 - https://www.echannelizer.com
