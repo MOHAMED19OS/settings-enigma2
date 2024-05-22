@@ -1,4 +1,8 @@
 #NAME • 9,0 E - Discovery • Networks
+#SERVICE 1:64:0:0:0:0:0:0:0:0::•••••| Sport |•••••
+#DESCRIPTION •••••| Sport |•••••
+#SERVICE 1:0:19:17D4:C3BE:9E:5A0000:0:0:0:
+#SERVICE 1:0:19:1A90:C3BE:9E:5A0000:0:0:0:
 #SERVICE 1:64:0:0:0:0:0:0:0:0::•••••| Cultural • Nature |•••••
 #DESCRIPTION •••••| Cultural • Nature |•••••
 #SERVICE 1:0:19:1518:C3AA:9E:5A0000:0:0:0:
