@@ -199,7 +199,7 @@ fff80000:02cc:0600
 	s 12437000:30000000:1:2:48:2:0:1:2:0:2
 /
 00300000:0035:0055
-	s 12245000:30000000:1:2:48:2:0:1:2:0:2:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1
+	s 12245000:30000000:1:2:48:2:0:1:2:0:2:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1
 /
 00300000:0065:0001
 	s 12226000:31428000:0:8:48:2:0:1:1:0:2
@@ -247,7 +247,7 @@ fff80000:02cc:0600
 	s 10887000:30000000:0:2:70:2:0:1:2:0:2
 /
 00460000:5208:007e
-	s 10928000:30000000:0:3:70:2:0:1:2:0:2:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1
+	s 10928000:30000000:0:3:70:2:0:1:2:0:2:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1
 /
 00460000:526c:007e
 	s 10887000:30000000:1:4:70:2:0:1:1:0:2
@@ -985,10 +985,10 @@ fff80000:02cc:0600
 	s 11595000:30000000:1:4:160:2:0:1:2:0:2
 /
 00a00000:75fc:016e
-	s 11678000:30000000:1:3:160:2:0:1:2:0:2
+	s 11011000:27500000:1:7:160:2:0:1:2:0:2
 /
 00a00000:75fc:016e
-	s 11011000:27500000:1:7:160:2:0:1:2:0:2
+	s 11678000:30000000:1:3:160:2:0:1:2:0:2
 /
 00a00000:76c0:016e
 	s 11055000:27500000:1:8:160:2:0:1:1:0:2
@@ -3792,7 +3792,7 @@ p:OTE
 Nautical Channel HD
 p:OTE,C:0000
 040e:005a0000:0008:00aa:1:0:0
-FOX HD
+Star Channel HD
 p:OTE,C:0000
 041c:005a0000:0008:00aa:1:0:0
 Cosmote Cinema Oscars HD
@@ -3834,7 +3834,7 @@ p:OTE,c:001010,c:0113f8,c:031010,c:050001,C:0000
 COSMOTECinema2HD
 p:OTE,C:0000
 0461:005a0000:0009:00aa:1:0:0
-FOX Life HD
+STAR Life HD
 p:OTE,C:0000
 0066:005a0000:0065:0012:25:0:0
 AFN|prime Atlantic
@@ -4833,7 +4833,7 @@ p:SkyItalia,C:0000
 Sky Sport Max
 p:SkyItalia,C:0000
 379d:00820000:14b4:fbff:25:0:0
-Fox HD
+Star Channel HD
 p:SkyItalia,C:0000
 37b2:00820000:14b4:fbff:25:0:0
 Cartoon Network HD
@@ -6132,7 +6132,7 @@ p:Cyfrowy Polsat S.A.,f:1000
 History 2 HD
 p:Cyfrowy Polsat S.A,f:1000
 3e23:00820000:2ee0:013e:1:0:0
-Golf Channel
+Golf Zone
 p:Cyfrowy Polsat S.A.,c:000107,c:010307,c:030107,c:050001,C:0100,C:06ed,C:0b01,C:1803,C:1813,C:1861,C:186c,C:1870,C:1884,f:1000
 3e24:00820000:2ee0:013e:1:0:0
 Fightbox HD
@@ -8787,10 +8787,10 @@ p:Telekom Srbija,c:00010f,c:010110,c:03010f,c:050001,C:0b00,C:1871
 Arena Premium 2
 p:Telekom Srbija,C:0000
 4e61:00eb0000:0c86:0003:1:0:0
-FOX HD
+Star Channel HD
 p:Telekom Srbija,C:0000
 4e62:00eb0000:0c86:0003:1:0:0
-FOX Movies HD
+Star Films
 p:Telekom Srbija,C:0000
 4e66:00eb0000:0c86:0003:25:0:0
 HBO HD
@@ -9198,11 +9198,11 @@ p:Towercom,C:0000
 Barrandov Krimi HD
 p:Towercom,C:0000
 4e63:00eb0000:0ca4:0003:1:0:0
-FOX Life HD
+STAR Life HD
 p:Telekom Srbija,C:0000
 4e64:00eb0000:0ca4:0003:1:0:0
-FOX Crime HD
-p:Telekom Srbija,C:0000
+Star Crime HD
+p:Star Crime HD,C:0000
 4e8f:00eb0000:0ca4:0003:1:0:0
 ATV HD
 p:Telekom Srbija,C:0000
@@ -9566,12 +9566,6 @@ p:beIN,C:0000,f:1000
 2a99:01040000:0442:00e0:25:0:0
 Al Seraj TV
 p:EshailSat
-4fb1:01040000:07f8:00e0:25:0:0
-FOX Life HD
-p:beIN
-4fb2:01040000:07f8:00e0:25:0:0
-Spare-FOX Crime HD
-p:beIN
 4fb7:01040000:07f8:00e0:25:0:0
 beIN SPORTS XTRA 1
 p:beIN,C:0000,f:1000
@@ -9675,11 +9669,11 @@ p:beIN,C:0000
 beIN 4K
 p:beIN,C:0000
 9d09:01040000:0fb4:00e0:1:0:0
-FOX HD
-p:beIN Sports,c:0002c7,c:0102c8,c:0302c7,c:050001,C:0603,C:0627,C:09b5
+Star Series
+p:beIN Sports
 9d0a:01040000:0fb4:00e0:25:0:0
-FOX MOVIES HD
-p:beIN Sports,c:0002d1,c:0102d2,c:0302d1,c:050001,C:0000
+Star Films
+p:beIN Sports,c:050001
 9d0b:01040000:0fb4:00e0:25:0:0
 Star Movies HD
 p:beIN Sports,C:0000
@@ -9690,8 +9684,8 @@ p:beIN Sports,C:0000
 BabyTV HD
 p:beIN Sports,C:0000
 9d0e:01040000:0fb4:00e0:25:0:0
-Fox Action Movies HD
-p:beIN Sports,C:0000
+Star Action
+p:beIN Sports,c:050001
 9d6d:01040000:0fbe:00e0:25:0:0
 JEEM
 p:beIN Sports,c:000263,c:010264,c:030263,c:050001,C:0000,f:1000
@@ -9755,6 +9749,9 @@ p:beIN,C:0000
 9e3c:01040000:0fd2:00e0:25:0:0
 MTV 90s
 p:beIN,C:0000
+9e3e:01040000:0fd2:00e0:25:0:0
+Star Life
+p:beIN
 9e3f:01040000:0fd2:00e0:25:0:0
 Travel Channel
 p:beIN,C:0000
@@ -9845,9 +9842,6 @@ p:SOREAD 2M,c:000c59,c:010c5a,c:030c59
 0012:01040000:146f:02be:25:0:0
 Medi1 TV Arabic
 p:
-01f5:01040000:15ea:02be:25:0:0
-Gametoon HD
-p:SPI,C:0000,f:1000
 0001:01040000:17f7:02be:25:0:0
 SSC 1 HD
 p:MBC,C:0000
@@ -11307,7 +11301,7 @@ p:Digital Platform,c:000a96,c:010afa,c:030a96,c:050007,C:0664,C:06ee
 beIN SPORTS INTERNATIONAL TICARI
 p:Digital Platform
 4210:01a40000:a929:002a:17:0:0
-FOX HD
+Star Channel HD
 p:Digital Platform
 4212:01a40000:a929:002a:17:0:0
 AL JAZEERA INTERNATIONAL HD
@@ -11676,16 +11670,16 @@ p:DU
 BABY TV HD
 p:DU,c:0001af,c:0101b1,c:0301af,c:050001,C:0611
 0004:020d0000:0018:020d:25:0:0
-FOX MOVIES HD
+Star Films
 p:DU
 0005:020d0000:0018:020d:25:0:0
-FOX HD
+Star Channel HD
 p:DU
 0007:020d0000:0018:020d:25:0:0
-FOX ACTON MOVIES HD
+Star Action
 p:DU
 000a:020d0000:0018:020d:25:0:0
-FOX LIfe HD
+STAR Life HD
 p:DU
 000f:020d0000:0018:020d:25:0:0
 NGC HD
@@ -11991,8 +11985,8 @@ p:AXN Movies HD,c:001010,c:031010,c:050001,c:100003,c:111011,c:141011,C:0000
 24 Kitchen HD
 p:SID 24 Kitchen HD,C:0000
 0193:0ce40000:0027:0036:1:0:0
-FOX Crime HD
-p:FOX Crime HD,C:0000
+Star Crime HD
+p:Star Crime HD,C:0000
 0195:0ce40000:0027:0036:1:0:0
 Travel Channel
 p:SID Travel Channel,C:0000
@@ -12000,8 +11994,8 @@ p:SID Travel Channel,C:0000
 AXN White HD
 p:AXN White HD,C:0000
 019a:0ce40000:0027:0036:1:0:0
-FOX Life HD
-p:SID FOX Life HD,C:0000
+Star Life HD
+p:Star Life HD,C:0000
 01cb:0ce40000:0027:0036:1:0:0
 ID Investigation Discovery
 p:ID Investigation Discovery,C:0000
@@ -12051,8 +12045,8 @@ p:Canal 11 HD,C:0000
 National Geographic HD
 p:SID National Geographic HD,C:0000
 125f:0ce40000:002f:0036:1:0:0
-FOX HD
-p:SID FOX HD,C:0000
+Star Channel HD
+p:Star Channel HD,C:0000
 1260:0ce40000:002f:0036:1:0:0
 AXN HD
 p:SID AXN HD,C:0000
@@ -14793,5 +14787,5 @@ p:,c:0004db,c:01053f,c:02034b,c:0304db,c:050001,f:1000
 NASA
 p:,c:001041,c:011044,c:031041,c:050007
 end
-# 987 transponders and 3943 services.
-# Created by E-Channelizer v19.0.0.223 on 06 Jun, 2024 at 22:04 - https://www.echannelizer.com
+# 987 transponders and 3941 services.
+# Created by E-Channelizer v19.0.0.223 on 07 Jun, 2024 at 19:48 - https://www.echannelizer.com
