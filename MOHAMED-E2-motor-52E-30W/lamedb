@@ -199,7 +199,7 @@ fff80000:02cc:0600
 	s 12437000:30000000:1:2:48:2:0:1:2:0:2
 /
 00300000:0035:0055
-	s 12245000:30000000:1:2:48:2:0:1:2:0:2:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1
+	s 12245000:30000000:1:2:48:2:0:1:2:0:2:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1
 /
 00300000:0065:0001
 	s 12226000:31428000:0:8:48:2:0:1:1:0:2
@@ -247,7 +247,7 @@ fff80000:02cc:0600
 	s 10887000:30000000:0:2:70:2:0:1:2:0:2
 /
 00460000:5208:007e
-	s 10928000:30000000:0:3:70:2:0:1:2:0:2:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1
+	s 10928000:30000000:0:3:70:2:0:1:2:0:2:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1:1
 /
 00460000:526c:007e
 	s 10887000:30000000:1:4:70:2:0:1:1:0:2
@@ -722,6 +722,9 @@ fff80000:02cc:0600
 /
 00820000:1900:fbff
 	s 11996000:29900000:1:4:130:2:0:1:1:0:2
+/
+00820000:1964:013e
+	s 12015000:27500000:0:3:130:2:0:1:2:0:2
 /
 00820000:1964:013e
 	s 12437000:27500000:0:3:130:2:0:1:2:0:2
@@ -2164,7 +2167,7 @@ fff80000:02cc:0600
 	s 12149000:27500000:1:3:525:2:0:1:2:0:2
 /
 02120000:0000:0040
-	s 11650000:8000000:0:7:530:2:0:1:1:0:2
+	s 11663000:10500000:0:1:530:2:0:1:1:0:2
 /
 02120000:0008:0001
 	s 12532000:27500000:0:1:530:2:0:1:1:0:2
@@ -5068,7 +5071,7 @@ MTV Live HD
 p:Cyfrowy Polsat S.A.,C:0000,f:1000
 000c:00820000:1964:013e:1:0:0
 Comedy Central HD
-p:Cyfrowy Polsat S.A.,C:0000,f:1000
+p:Cyfrowy Polsat S.A.
 000d:00820000:1964:013e:1:0:0
 Paramount Network Polska
 p:Cyfrowy Polsat S.A.,C:0000,f:1000
@@ -5077,10 +5080,10 @@ Nicktoons HD
 p:Cyfrowy Polsat S.A.,C:0000,f:1000
 000f:00820000:1964:013e:1:0:0
 MTV Polska HD
-p:Cyfrowy Polsat S.A.,C:0000,f:1000
+p:Cyfrowy Polsat S.A.
 0010:00820000:1964:013e:1:0:0
 Polsat Comedy Central Extra
-p:Cyfrowy Polsat S.A.,C:0000,f:1000
+p:Cyfrowy Polsat S.A.
 2d00:00820000:19c8:fbff:25:0:0
 Sky Atlantic Maratone
 p:SkyItalia,C:0000
@@ -5969,9 +5972,15 @@ p:Cyfrowy Polsat SA,C:0000,f:1000
 4295:00820000:2bc0:013e:1:0:0
 Cartoonito
 p:Cyfrowy Polsat S.A.,c:000145,c:010345,c:030145,c:050001,C:0100,C:0500,C:06ed,C:0b01,C:1803,C:1813,C:1861,C:186c,C:1870,C:1884,f:1000
+4299:00820000:2bc0:013e:1:0:0
+Eska Rock
+p:Cyfrowy Polsat S.A.
 429a:00820000:2bc0:013e:1:0:0
 Polo TV
 p:Cyfrowy Polsat S.A.,c:000203,c:010250,c:021015,c:030203,c:050001,C:0100,C:0500,C:06ed,C:0b01,C:1803,C:1813,C:1861,C:186c,C:1870,C:1884,f:1000
+429b:00820000:2bc0:013e:1:0:0
+Eska TV Extra
+p:Cyfrowy Polsat S.A.
 429c:00820000:2bc0:013e:1:0:0
 Eska TV HD
 p:Cyfrowy Polsat S.A.,f:1000
@@ -6101,6 +6110,9 @@ p:KABELIO.CH
 00fe:00820000:2db4:013e:25:0:0
 Kabelio TMC CH
 p:KABELIO.CH
+0101:00820000:2db4:013e:1:0:0
+Kabelio Mooz Dance
+p:KABELIO.CH
 0001:00820000:2e18:00b0:1:0:0
 Al Maghribia HD
 p:SNRT,c:000134,c:010135,c:030134,c:050001
@@ -6133,7 +6145,7 @@ History 2 HD
 p:Cyfrowy Polsat S.A,f:1000
 3e23:00820000:2ee0:013e:1:0:0
 Golf Zone
-p:Cyfrowy Polsat S.A.,c:000107,c:010307,c:030107,c:050001,C:0100,C:06ed,C:0b01,C:1803,C:1813,C:1861,C:186c,C:1870,C:1884,f:1000
+p:Cyfrowy Polsat S.A.
 3e24:00820000:2ee0:013e:1:0:0
 Fightbox HD
 p:Cyfrowy Polsat S.A.,f:1000
@@ -6851,6 +6863,9 @@ p:Total TV,C:0000
 02fc:00a00000:9d08:016e:1:0:0
 HGTV HD
 p:Total TV,C:0000
+030a:00a00000:9d08:016e:1:0:0
+Vavoom
+p:Total TV
 0a8d:00a00000:9dd0:016e:25:0:0
 FilmBox Premium HD
 p:A1 Broadcasting,C:0000
@@ -10802,6 +10817,12 @@ p:Tring TV
 1194:01860000:03fc:039e:1:0:0
 Turkish Stories
 p:Tring TV
+1bbc:01860000:03fc:039e:1:0:0
+Klan Sport 1
+p:Tring TV
+1c20:01860000:03fc:039e:1:0:0
+Klan Sport 2
+p:Tring TV
 044f:01860000:0b11:039e:31:0:0
 HBO 2 HD
 p:A1 BG,C:0000
@@ -11281,6 +11302,9 @@ EKOTURK HD
 p:TURKSAT
 cbed:01a40000:a925:042e:25:0:0
 SZC
+p:TURKSAT
+cbfd:01a40000:a925:042e:25:0:0
+CNBC-E
 p:TURKSAT
 4204:01a40000:a929:002a:17:0:0
 YABAN TV HD
@@ -11909,9 +11933,6 @@ p:,c:0000cd,c:010131,c:0300cd
 0006:02122cd9:0001:0001:1:0:0
 RT De
 p:
-0001:0212aafe:0001:ffff:1:0:0
-Al Seraj TV
-p:Service Provider
 0001:0212b157:0001:ffff:1:0:0
 Al Manar
 p:Al Manar,c:000300,c:010301,c:030300
@@ -12986,12 +13007,6 @@ p:,c:001325,c:011326,c:031325,c:050001
 0033:0dca0000:0014:006e:1:0:0
 AL AHAD HD
 p:
-07d9:0dca0000:0014:0800:25:0:0
-Baby TV
-p:OSN
-07de:0dca0000:0014:0800:25:0:0
-Nat Geo WIld HD
-p:OSN
 07df:0dca0000:0014:0800:25:0:0
 Sky News Arabia HD
 p:OSN,c:0000d7,c:01013b,c:0300d7,c:050001
@@ -14787,5 +14802,5 @@ p:,c:0004db,c:01053f,c:02034b,c:0304db,c:050001,f:1000
 NASA
 p:,c:001041,c:011044,c:031041,c:050007
 end
-# 987 transponders and 3941 services.
-# Created by E-Channelizer v19.0.0.223 on 07 Jun, 2024 at 19:48 - https://www.echannelizer.com
+# 988 transponders and 3945 services.
+# Created by E-Channelizer v19.0.0.223 on 11 Jun, 2024 at 18:07 - https://www.echannelizer.com
