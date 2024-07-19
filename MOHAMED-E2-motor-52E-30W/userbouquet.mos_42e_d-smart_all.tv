@@ -3,9 +3,6 @@
 #DESCRIPTION •••••| Sport |•••••
 #SERVICE 1:0:19:76F:9:42:1A40000:0:0:0:
 #SERVICE 1:0:19:77E:9:42:1A40000:0:0:0:
-#SERVICE 1:64:0:0:0:0:0:0:0:0::•••••| General |•••••
-#DESCRIPTION •••••| General |•••••
-#SERVICE 1:0:19:6B4:7:42:1A40000:0:0:0:
 #SERVICE 1:64:2C3:0:0:0:0:0:0:0::•••••| Movies |•••••
 #DESCRIPTION •••••| Movies |•••••
 #SERVICE 1:0:19:776:9:42:1A40000:0:0:0:
