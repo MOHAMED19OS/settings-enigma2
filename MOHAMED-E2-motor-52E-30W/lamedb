@@ -199,7 +199,7 @@ fff80000:02cc:0600
 	s 12437000:30000000:1:2:48:2:0:1:2:0:2
 /
 00300000:0035:0055
-	s 12245000:30000000:1:2:48:2:0:1:2:0:2:1:1:1:1:1:1
+	s 12245000:30000000:1:2:48:2:0:1:2:0:2:1:1:1:1:1:1:1:1
 /
 00300000:0065:0001
 	s 12226000:31428000:0:8:48:2:0:1:1:0:2
@@ -247,7 +247,7 @@ fff80000:02cc:0600
 	s 10887000:30000000:0:2:70:2:0:1:2:0:2
 /
 00460000:5208:007e
-	s 10928000:30000000:0:3:70:2:0:1:2:0:2:1:1:1:1:1:1
+	s 10928000:30000000:0:3:70:2:0:1:2:0:2:1:1:1:1:1:1:1:1
 /
 00460000:526c:007e
 	s 10887000:30000000:1:4:70:2:0:1:1:0:2
@@ -1853,6 +1853,9 @@ fff80000:02cc:0600
 /
 011a0000:083d:0002
 	s 11306000:27500000:0:4:282:2:0
+/
+011a0000:083f:0002
+	s 11344000:27500000:0:2:282:2:0:1:2:0:2
 /
 011a0000:0841:0002
 	s 11386000:29500000:0:6:282:2:0:1:1:2:2
@@ -4568,18 +4571,6 @@ p:Warner Bros. Discovery,c:0001f5,c:01044e,c:0301f5,c:050001,C:0500,C:0604,C:069
 02be:00820000:02bc:013e:25:0:0
 Eurosport 2 HD
 p:Warner Bros. Discovery,c:0001f6,c:0104b2,c:0301f6,c:050001,C:0500,C:069f,C:0911,C:091f,f:1000
-02f3:00820000:02bc:013e:25:0:0
-Eurosport 3 HD
-p:Polsat Box,C:0000
-02f4:00820000:02bc:013e:25:0:0
-Eurosport 4 HD
-p:Polsat Box,C:0000
-02f5:00820000:02bc:013e:25:0:0
-Eurosport 5 HD
-p:Polsat Box,C:0000
-02f6:00820000:02bc:013e:25:0:0
-Eurosport 6 HD
-p:Warner Bros. Discovery
 01f5:00820000:0384:013e:1:0:0
 Iran International HD
 p:Volant Media
@@ -5225,15 +5216,6 @@ p:Cyfrowy Polsat S.A.,c:0001fc,c:010260,c:02002d,c:0301fc,c:050001,C:0100,C:0500
 1cca:00820000:1ce8:0071:1:0:0
 Polsat Viasat Explore HD
 p:Cyfrowy Polsat S.A.,f:1000
-3e81:00820000:1e14:013e:25:0:0
-Eurosport 7 HD
-p:Warner Bros. Discovery
-3e82:00820000:1e14:013e:25:0:0
-Eurosport 8 HD
-p:Warner Bros. Discovery
-3e83:00820000:1e14:013e:25:0:0
-Eurosport 9 HD
-p:Warner Bros. Discovery
 3e84:00820000:1e14:013e:31:0:0
 Eurosport 4K PopUp
 p:Warner Bros. Discovery
@@ -7893,10 +7875,10 @@ p:Movistar+
 DAZN LALIGA 2 HD
 p:
 749e:00c00000:041c:0001:25:0:0
-M+CopaAméricaHD
+M+LCAMPEON2
 p:Movistar+,c:0000a4,c:010060,c:0300a4,c:050001,C:1810
 749f:00c00000:041c:0001:25:0:0
-M+CopaAmérica2HD
+M+LCAMPEON3
 p:Movistar+
 74a2:00c00000:041c:0001:25:0:0
 MEZZO LIVE
@@ -10541,6 +10523,27 @@ p:BSkyB,f:1000
 083c:011a0000:083d:0002:25:0:0
 Channel 5 HD
 p:BSkyB,f:1000
+5212:011a0000:083f:0002:25:0:0
+ITV 1 Meridian Thames Valle
+p:BSkyB,f:1
+5217:011a0000:083f:0002:25:0:0
+ITV 1 Meridian South Coast
+p:BSkyB,f:1
+5230:011a0000:083f:0002:25:0:0
+ITV 1 Yorkshire West
+p:BSkyB,f:1
+523a:011a0000:083f:0002:25:0:0
+ITV3 HD
+p:BSkyB,f:1
+5244:011a0000:083f:0002:25:0:0
+ITV 1 Border Scotland
+p:BSkyB
+524e:011a0000:083f:0002:25:0:0
+ITV 1 Anglia West
+p:BSkyB,f:1
+5258:011a0000:083f:0002:25:0:0
+ITV 1 Central East
+p:BSkyB,f:1
 d1c4:011a0000:0841:0002:25:0:0
 FRANCE 24 HD
 p:BSkyB
@@ -12676,13 +12679,13 @@ Sharqiya from Kalba HD
 p:SBA,c:000040,c:010042,c:030040,c:050001
 0005:0dc00000:0208:02be:25:0:0
 Al Wousta from Al Dhaid HD
-p:SBA,f:40
+p:SBA
 0006:0dc00000:0208:02be:25:0:0
 Sharjah Sport HD
 p:SBA,c:0000c8,c:0100d2,c:0300c8,c:050001
 0008:0dc00000:0208:02be:25:0:0
 Sharjah Quran TV
-p:SBA,f:40
+p:SBA
 1450:0dc00000:0320:5000:25:0:0
 Al Hiwar TV
 p:MY TV
@@ -14892,5 +14895,5 @@ p:,c:0004db,c:01053f,c:02034b,c:0304db,c:050001,f:1000
 NASA
 p:,c:001041,c:011044,c:031041,c:050007
 end
-# 986 transponders and 3977 services.
-# Created by E-Channelizer v19.0.0.223 on 16 Aug, 2024 at 14:00 - https://www.echannelizer.com
+# 987 transponders and 3977 services.
+# Created by E-Channelizer v19.0.0.223 on 18 Aug, 2024 at 17:48 - https://www.echannelizer.com
