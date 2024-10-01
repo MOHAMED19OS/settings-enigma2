@@ -23,9 +23,13 @@
 #SERVICE 1:0:1:3BC5:A415:42E:1A40000:0:0:0:
 #SERVICE 1:0:19:CB25:A02D:42E:1A40000:0:0:0:
 #SERVICE 1:0:1:CC50:7D6B:42E:1A40000:0:0:0:
+#SERVICE 1:0:19:390B:A21D:42E:1A40000:0:0:0:
 #SERVICE 1:64:2BF:0:0:0:0:0:0:0::•••••| Cultural • Nature |•••••
 #DESCRIPTION •••••| Cultural • Nature |•••••
 #SERVICE 1:0:11:4205:A929:2A:1A40000:0:0:0:
+#SERVICE 1:64:0:0:0:0:0:0:0:0::•••••| Entertainment |•••••
+#DESCRIPTION •••••| Entertainment |•••••
+#SERVICE 1:0:19:390F:A21D:42E:1A40000:0:0:0:
 #SERVICE 1:64:2C0:0:0:0:0:0:0:0::•••••| News |•••••
 #DESCRIPTION •••••| News |•••••
 #SERVICE 1:0:1:413C:A2E7:42E:1A40000:0:0:0:
@@ -37,3 +41,6 @@
 #SERVICE 1:64:2C1:0:0:0:0:0:0:0::•••••| Music |•••••
 #DESCRIPTION •••••| Music |•••••
 #SERVICE 1:0:19:390A:A21D:42E:1A40000:0:0:0:
+#SERVICE 1:64:0:0:0:0:0:0:0:0::•••••| Other |•••••
+#DESCRIPTION •••••| Other |•••••
+#SERVICE 1:0:1:3933:A21D:42E:1A40000:0:0:0:
