@@ -16,7 +16,6 @@
 #SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.mos_30w_general_fta.tv" ORDER BY bouquet
 #SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.mos_30w_nos.tv" ORDER BY bouquet
 #SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.mos_30w_abertis.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.mos_30w_ultrahd.tv" ORDER BY bouquet
 #SERVICE 1:519:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.mos_30w_abertis_t2mi.tv" ORDER BY bouquet
 #SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.mos_intelsat_905_24w.tv" ORDER BY bouquet
 #SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.mos_24w_algerie.tv" ORDER BY bouquet
@@ -165,9 +164,6 @@
 #SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.mos_28e_freesat.tv" ORDER BY bouquet
 #SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.mos_28e_bskyb.tv" ORDER BY bouquet
 #SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.mos_28e_ultrahd_4k.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.mos_eutelsat_33e.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.mos_33e_vidi.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.mos_33e_nurts_bulgaria.tv" ORDER BY bouquet
 #SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.mos_hellas_sat_39e.tv" ORDER BY bouquet
 #SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.mos_39e_general_fat.tv" ORDER BY bouquet
 #SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.mos_39e_bulsatcom_all.tv" ORDER BY bouquet
@@ -201,11 +197,5 @@
 #SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.mos_expressam6_53e.tv" ORDER BY bouquet
 #SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.mos_53e_general_fat.tv" ORDER BY bouquet
 #SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.mos_53e_russia.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.mos_plutotv.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.pluto_tv_us.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.pluto_tv_de.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.pluto_tv_es.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.pluto_tv_uk.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.pluto_tv_fr.tv" ORDER BY bouquet
 #SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.mos_premium_iptv.tv" ORDER BY bouquet
 #SERVICE 1:519:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.favourites.tv" ORDER BY bouquet

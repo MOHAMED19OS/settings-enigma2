@@ -28,3 +28,7 @@
 #SERVICE 1:64:0:0:0:0:0:0:0:0::•••••| Children |•••••
 #DESCRIPTION •••••| Children |•••••
 #SERVICE 1:0:1:DB6:3FC:39E:1860000:0:0:0:
+#SERVICE 1:64:0:0:0:0:0:0:0:0::•••••| Other |•••••
+#DESCRIPTION •••••| Other |•••••
+#SERVICE 1:0:1:17D4:3FC:39E:1860000:0:0:0:
+#SERVICE 1:0:1:1806:3FC:39E:1860000:0:0:0:

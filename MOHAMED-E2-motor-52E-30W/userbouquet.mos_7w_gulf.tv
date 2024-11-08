@@ -163,8 +163,8 @@
 #SERVICE 1:0:1:1C27:48:1:DC00000:0:0:0:
 #SERVICE 1:64:86:0:0:0:0:0:0:0::•••••| Children |•••••
 #DESCRIPTION •••••| Children |•••••
+#SERVICE 1:0:19:2BE:29CC:77E:DCA0000:0:0:0:
 #SERVICE 1:0:19:160:C9:800:DCA0000:0:0:0:
-#SERVICE 1:0:11:2CF:9EFC:77E:DCA0000:0:0:0:
 #SERVICE 1:64:89:0:0:0:0:0:0:0::•••••| Entertainment |•••••
 #DESCRIPTION •••••| Entertainment |•••••
 #SERVICE 1:0:1:1C29:48:1:DC00000:0:0:0:
@@ -186,7 +186,7 @@
 #SERVICE 1:0:1:68:A154:77E:DCA0000:0:0:0:
 #SERVICE 1:64:0:0:0:0:0:0:0:0::•••••| Education |•••••
 #DESCRIPTION •••••| Education |•••••
-#SERVICE 1:0:1:1C2D:48:1:DC00000:0:0:0:
+#SERVICE 1:0:19:2BD:29CC:77E:DCA0000:0:0:0:
 #SERVICE 1:64:8B:0:0:0:0:0:0:0::•••••::| Yamen :★: اليــمــن  |::•••••
 #DESCRIPTION •••••::| Yamen :★: اليــمــن  |::•••••
 #SERVICE 1:64:8C:0:0:0:0:0:0:0::•••••| General |•••••

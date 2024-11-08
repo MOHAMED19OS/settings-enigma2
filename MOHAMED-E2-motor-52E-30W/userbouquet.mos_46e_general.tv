@@ -3,8 +3,8 @@
 #DESCRIPTION •••••::| HD |::•••••
 #SERVICE 1:64:2EE:0:0:0:0:0:0:0::•••••| Sport |•••••
 #DESCRIPTION •••••| Sport |•••••
-#SERVICE 1:0:1:2:1:0:1CC2BA7:0:0:0:
 #SERVICE 1:0:1:8:1:0:1CC2BA7:0:0:0:
+#SERVICE 1:0:1:2:1:0:1CC2BA7:0:0:0:
 #SERVICE 1:0:1:9:1:FFFF:1CC2B7F:0:0:0:
 #SERVICE 1:0:1:A:1:FFFF:1CC2B7F:0:0:0:
 #SERVICE 1:64:2EF:0:0:0:0:0:0:0::•••••| General |•••••
@@ -27,6 +27,7 @@
 #SERVICE 1:64:0:0:0:0:0:0:0:0::•••••| News |•••••
 #DESCRIPTION •••••| News |•••••
 #SERVICE 1:0:1:5:1:FFFF:1CC2B7F:0:0:0:
+#SERVICE 1:0:1:15:0:0:1CC2B57:0:0:0:
 #SERVICE 1:64:0:0:0:0:0:0:0:0::•••••| Music |•••••
 #DESCRIPTION •••••| Music |•••••
 #SERVICE 1:0:1:2:1:FFFF:1CC2B7F:0:0:0:
