@@ -1,34 +1,65 @@
 #NAME • 4,8 E - Ukraina • Zeonbud
-#SERVICE 1:64:10A:0:0:0:0:0:0:0::•••••| Sport |•••••
+#SERVICE 1:64:0:0:0:0:0:0:0:0::•••••| Sport |•••••
 #DESCRIPTION •••••| Sport |•••••
-#SERVICE 1:0:1:3:A:2C:300000:0:0:0:http%3a//0.0.0.0%3a9999/zeobud/service800:Megogo Sport
+#SERVICE 1:0:1:3:2F29:30:0:0:0:0:http%3a//0.0.0.0%3a9999/zeobud/service800:Megogo Sport
 #DESCRIPTION Megogo Sport
-#SERVICE 1:64:10A:0:0:0:0:0:0:0::•••••| General |•••••
+#SERVICE 1:64:0:0:0:0:0:0:0:0::•••••| General |•••••
 #DESCRIPTION •••••| General |•••••
-#SERVICE 1:0:1:9:A:2C:300000:0:0:0:http%3a//0.0.0.0%3a9999/zeobud/service800:Pershiy
-#DESCRIPTION Pershiy
-#SERVICE 1:0:1:2:A:2C:300000:0:0:0:http%3a//0.0.0.0%3a9999/zeobud/service800:RADA
-#DESCRIPTION RADA
-#SERVICE 1:0:1:4:A:2C:300000:0:0:0:http%3a//0.0.0.0%3a9999/zeobud/service800:My-Ukraina
+#SERVICE 1:0:1:4:2F29:30:0:0:0:0:http%3a//0.0.0.0%3a9999/zeobud/service800:My-Ukraina
 #DESCRIPTION My-Ukraina
-#SERVICE 1:0:1:7:A:2C:300000:0:0:0:http%3a//0.0.0.0%3a9999/zeobud/service800:Svit+
-#DESCRIPTION Svit+
-#SERVICE 1:64:10C:0:0:0:0:0:0:0::•••••| Cultural • Nature |•••••
+#SERVICE 1:0:1:9:2F29:30:0:0:0:0:http%3a//0.0.0.0%3a9999/zeobud/service800:Pershiy
+#DESCRIPTION Pershiy
+#SERVICE 1:0:1:8:2F29:30:0:0:0:0:http%3a//0.0.0.0%3a9999/zeobud/service800:Sonce+
+#DESCRIPTION Sonce+
+#SERVICE 1:0:1:6:2F29:30:0:0:0:0:http%3a//0.0.0.0%3a9999/zeobud/service800:Svitlo
+#DESCRIPTION Svitlo
+#SERVICE 1:0:1:7:2F29:30:0:0:0:0:http%3a//0.0.0.0%3a9999/zeobud/service800:СВІТ+
+#DESCRIPTION СВІТ+
+#SERVICE 1:64:0:0:0:0:0:0:0:0::•••••| Cultural • Nature |•••••
 #DESCRIPTION •••••| Cultural • Nature |•••••
-#SERVICE 1:0:1:A:A:2C:300000:0:0:0:http%3a//0.0.0.0%3a9999/zeobud/service800:Suspilne Kultura
+#SERVICE 1:0:1:A:2F29:30:0:0:0:0:http%3a//0.0.0.0%3a9999/zeobud/service800:Suspilne Kultura
 #DESCRIPTION Suspilne Kultura
+#SERVICE 1:64:0:0:0:0:0:0:0:0::•••••| News |•••••
+#DESCRIPTION •••••| News |•••••
+#SERVICE 1:0:1:2:2F29:30:0:0:0:0:http%3a//0.0.0.0%3a9999/zeobud/service800:RADA
+#DESCRIPTION RADA
 #SERVICE 1:64:0:0:0:0:0:0:0:0::•••••| Other |•••••
 #DESCRIPTION •••••| Other |•••••
-#SERVICE 1:0:1:5:A:2C:300000:0:0:0:http%3a//0.0.0.0%3a9999/zeobud/service800:Kvartal TV
+#SERVICE 1:0:1:5:2F29:30:0:0:0:0:http%3a//0.0.0.0%3a9999/zeobud/service800:Kvartal TV
 #DESCRIPTION Kvartal TV
-#SERVICE 1:0:1:6:A:2C:300000:0:0:0:http%3a//0.0.0.0%3a9999/zeobud/service800:Svitlo
-#DESCRIPTION Svitlo
-#SERVICE 1:0:1:1:A:2C:300000:0:0:0:http%3a//0.0.0.0%3a9999/zeobud/service800:Army TV
+#SERVICE 1:0:1:1:2F29:30:0:0:0:0:http%3a//0.0.0.0%3a9999/zeobud/service800:Army TV
 #DESCRIPTION Army TV
-#SERVICE 1:64:0:0:0:0:0:0:0:0::•••••| Shopping |•••••
-#DESCRIPTION •••••| Shopping |•••••
-#SERVICE 1:0:1:8:A:2C:300000:0:0:0:http%3a//0.0.0.0%3a9999/zeobud/service800:Sonce+
-#DESCRIPTION Sonce+
-#SERVICE 1:64:10E:0:0:0:0:0:0:0::•••••| T2MI |•••••
-#DESCRIPTION •••••| T2MI |•••••
-#SERVICE 1:0:C:320:107B:55:300000:0:0:0:
+#SERVICE 1:0:1:B:2F29:30:0:0:0:0:http%3a//0.0.0.0%3a9999/zeobud/service800:ТЕСТ11
+#DESCRIPTION ТЕСТ11
+#SERVICE 1:0:1:C:2F29:30:0:0:0:0:http%3a//0.0.0.0%3a9999/zeobud/service800:ТЕСТ12
+#DESCRIPTION ТЕСТ12
+#SERVICE 1:64:3C4:0:0:0:0:0:0:0:::: T2Mi :: 11747 H 30000 3/4  MX-801 :: pid 4097 ::
+#DESCRIPTION :: T2Mi :: 11747 H 30000 3/4  MX-801 :: pid 4097 ::
+#SERVICE 1:0:1:1:2DE3:30:0:0:0:0:http%3a//0.0.0.0%3a9999/zeobud/service801 :DSNS Informed 1
+#DESCRIPTION DSNS Informed 1
+#SERVICE 1:0:1:2:2DE3:30:0:0:0:0:http%3a//0.0.0.0%3a9999/zeobud/service801:DSNS Informed 2
+#DESCRIPTION DSNS Informed 2
+#SERVICE 1:0:1:3:2DE3:30:0:0:0:0:http%3a//0.0.0.0%3a9999/zeobud/service801:DSNS Informed 3
+#DESCRIPTION DSNS Informed 3
+#SERVICE 1:0:1:4:2DE3:30:0:0:0:0:http%3a//0.0.0.0%3a9999/zeobud/service801:DSNS Informed 4
+#DESCRIPTION DSNS Informed 4
+#SERVICE 1:0:1:5:2DE3:30:0:0:0:0:http%3a//0.0.0.0%3a9999/zeobud/service801:DSNS Informed 5
+#DESCRIPTION DSNS Informed 5
+#SERVICE 1:0:1:6:2DE3:30:0:0:0:0:http%3a//0.0.0.0%3a9999/zeobud/service801:DSNS Informed 6
+#DESCRIPTION DSNS Informed 6
+#SERVICE 1:0:1:7:2DE3:30:0:0:0:0:http%3a//0.0.0.0%3a9999/zeobud/service801:DSNS Informed 7
+#DESCRIPTION DSNS Informed 7
+#SERVICE 1:0:1:8:2DE3:30:0:0:0:0:http%3a//0.0.0.0%3a9999/zeobud/service801:DSNS Informed 8
+#DESCRIPTION DSNS Informed 8
+#SERVICE 1:0:1:9:2DE3:30:0:0:0:0:http%3a//0.0.0.0%3a9999/zeobud/service801:DSNS Informed 9
+#DESCRIPTION DSNS Informed 9
+#SERVICE 1:0:1:A:2DE3:30:0:0:0:0:http%3a//0.0.0.0%3a9999/zeobud/service801:DSNS Informed 10
+#DESCRIPTION DSNS Informed 10
+#SERVICE 1:0:1:B:2DE3:30:0:0:0:0:http%3a//0.0.0.0%3a9999/zeobud/service801:DSNS Informed 11
+#DESCRIPTION DSNS Informed 11
+#SERVICE 1:0:1:C:2DE3:30:0:0:0:0:http%3a//0.0.0.0%3a9999/zeobud/service801:DSNS Informed 12
+#DESCRIPTION DSNS Informed 12
+#SERVICE 1:64:0:0:0:0:0:0:0:0::•••••| T2Mi |•••••
+#DESCRIPTION •••••| T2Mi |•••••
+#SERVICE 1:0:1:320:2B:55:300000:0:0:0:
+#SERVICE 1:0:1:321:2B:55:300000:0:0:0:
