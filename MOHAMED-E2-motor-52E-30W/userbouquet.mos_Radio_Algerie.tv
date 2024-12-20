@@ -1,0 +1,97 @@
+#NAME •••••|  Algerie ★ Radio  |•••••
+#SERVICE 4097:0:1:14D:1:1:1BC:0:0:0:https%3a//webradio.tda.dz/Adrar_64K.mp3:Radio Adrar
+#DESCRIPTION Radio Adrar
+#SERVICE 4097:0:1:14D:1:1:1BC:0:0:0:https%3a//webradio.tda.dz/Chlef_64K.mp3:Radio Chlef
+#DESCRIPTION Radio Chlef
+#SERVICE 4097:0:1:14D:1:1:1BC:0:0:0:https%3a//webradio.tda.dz/Laghouat_64K.mp3:Radio Laghouat
+#DESCRIPTION Radio Laghouat
+#SERVICE 4097:0:1:14D:1:1:1BC:0:0:0:https%3a//webradio.tda.dz/OumBouaghi_64K.mp3:Radio Oum Bouaghi
+#DESCRIPTION Radio Oum Bouaghi
+#SERVICE 4097:0:1:14D:1:1:1BC:0:0:0:https%3a//webradio.tda.dz/Batna_64K.mp3:Radio Batna
+#DESCRIPTION Radio Batna
+#SERVICE 4097:0:1:14D:1:1:1BC:0:0:0:https%3a//webradio.tda.dz/Bejaia_64K.mp3:Radio Bejaia
+#DESCRIPTION Radio Bejaia
+#SERVICE 4097:0:1:14D:1:1:1BC:0:0:0:https%3a//webradio.tda.dz/Biskra_64K.mp3:Radio Biskra
+#DESCRIPTION Radio Biskra
+#SERVICE 4097:0:1:14D:1:1:1BC:0:0:0:https%3a//webradio.tda.dz/Bechar_64K.mp3:Radio Bechar
+#DESCRIPTION Radio Bechar
+#SERVICE 4097:0:1:14D:1:1:1BC:0:0:0:https%3a//webradio.tda.dz/Blida_64K.mp3:Radio Blida
+#DESCRIPTION Radio Blida
+#SERVICE 4097:0:1:14D:1:1:1BC:0:0:0:https%3a//webradio.tda.dz/Bouira_64K.mp3:Radio Bouira
+#DESCRIPTION Radio Bouira
+#SERVICE 4097:0:1:14D:1:1:1BC:0:0:0:https%3a//webradio.tda.dz/Tamanrasset_64K.mp3:Radio Tamanrasset
+#DESCRIPTION Radio Tamanrasset
+#SERVICE 4097:0:1:14D:1:1:1BC:0:0:0:https%3a//webradio.tda.dz/Tebessa_64K.mp3:Radio Tebessa
+#DESCRIPTION Radio Tebessa
+#SERVICE 4097:0:1:14D:1:1:1BC:0:0:0:https%3a//webradio.tda.dz/Tlemcen_64K.mp3:Radio Tlemcen
+#DESCRIPTION Radio Tlemcen
+#SERVICE 4097:0:1:14D:1:1:1BC:0:0:0:https%3a//webradio.tda.dz/Tiaret_64K.mp3:Radio Tiaret
+#DESCRIPTION Radio Tiaret
+#SERVICE 4097:0:1:14D:1:1:1BC:0:0:0:https%3a//webradio.tda.dz/TiziOuzou_64K.mp3:Radio TiziOuzou
+#DESCRIPTION Radio TiziOuzou
+#SERVICE 4097:0:1:14D:1:1:1BC:0:0:0:https%3a//webradio.tda.dz/ElBahdja_64K.mp3:Radio Algerie
+#DESCRIPTION Radio Algerie
+#SERVICE 4097:0:1:14D:1:1:1BC:0:0:0:https%3a//webradio.tda.dz/Djelfa_64K.mp3:Radio Djelfa
+#DESCRIPTION Radio Djelfa
+#SERVICE 4097:0:1:14D:1:1:1BC:0:0:0:https%3a//webradio.tda.dz/Jijel_64K.mp3:Radio Jijel
+#DESCRIPTION Radio Jijel
+#SERVICE 4097:0:1:14D:1:1:1BC:0:0:0:https%3a//webradio.tda.dz/Setif_64K.mp3:Radio Setif
+#DESCRIPTION Radio Setif
+#SERVICE 4097:0:1:14D:1:1:1BC:0:0:0:https%3a//webradio.tda.dz/Saida_64K.mp3:Radio Saida
+#DESCRIPTION Radio Saida
+#SERVICE 4097:0:1:14D:1:1:1BC:0:0:0:https%3a//webradio.tda.dz/Skikda_64K.mp3:Radio Skikda
+#DESCRIPTION Radio Skikda
+#SERVICE 4097:0:1:14D:1:1:1BC:0:0:0:https%3a//webradio.tda.dz/SidiBelabes_64K.mp3:Radio SidiBelabes
+#DESCRIPTION Radio SidiBelabes
+#SERVICE 4097:0:1:14D:1:1:1BC:0:0:0:https%3a//webradio.tda.dz/Annaba_64K.mp3:Radio Annaba
+#DESCRIPTION Radio Annaba
+#SERVICE 4097:0:1:14D:1:1:1BC:0:0:0:https%3a//webradio.tda.dz/Guelma_64K.mp3:Radio Guelma
+#DESCRIPTION Radio Guelma
+#SERVICE 4097:0:1:14D:1:1:1BC:0:0:0:https%3a//webradio.tda.dz/Constantine_64K.mp3:RadioConstantine
+#DESCRIPTION RadioConstantine
+#SERVICE 4097:0:1:14D:1:1:1BC:0:0:0:https%3a//webradio.tda.dz/Medea_64K.mp3:Radio Medea
+#DESCRIPTION Radio Medea
+#SERVICE 4097:0:1:14D:1:1:1BC:0:0:0:https%3a//webradio.tda.dz/Mostaganem_64K.mp3:Radio Mostaganem
+#DESCRIPTION Radio Mostaganem
+#SERVICE 4097:0:1:14D:1:1:1BC:0:0:0:https%3a//webradio.tda.dz/Msila_64K.mp3:Radio Msila
+#DESCRIPTION Radio Msila
+#SERVICE 4097:0:1:14D:1:1:1BC:0:0:0:https%3a//webradio.tda.dz/Mascara_64K.mp3:Radio Mascara
+#DESCRIPTION Radio Mascara
+#SERVICE 4097:0:1:14D:1:1:1BC:0:0:0:https%3a//webradio.tda.dz/Ouargla_64K.mp3:Radio Ouargla
+#DESCRIPTION Radio Ouargla
+#SERVICE 4097:0:1:14D:1:1:1BC:0:0:0:https%3a//webradio.tda.dz/Oran_64K.mp3:Radio Oran
+#DESCRIPTION Radio Oran
+#SERVICE 4097:0:1:14D:1:1:1BC:0:0:0:https%3a//webradio.tda.dz/ElBayedh_64K.mp3:Radio ElBayedh
+#DESCRIPTION Radio ElBayedh
+#SERVICE 4097:0:1:14D:1:1:1BC:0:0:0:https%3a//webradio.tda.dz/Illizi_64K.mp3:Radio Illizi
+#DESCRIPTION Radio Illizi
+#SERVICE 4097:0:1:14D:1:1:1BC:0:0:0:https%3a//webradio.tda.dz/BordjBouArreridj_64K.mp3:Radio BordjBouArreridj
+#DESCRIPTION Radio BordjBouArreridj
+#SERVICE 4097:0:1:14D:1:1:1BC:0:0:0:https%3a//webradio.tda.dz/Boumerdes_64K.mp3:Radio Boumerdes
+#DESCRIPTION Radio Boumerdes
+#SERVICE 4097:0:1:14D:1:1:1BC:0:0:0:https%3a//webradio.tda.dz/Taref_64K.mp3:Radio Taref
+#DESCRIPTION Radio Taref
+#SERVICE 4097:0:1:14D:1:1:1BC:0:0:0:https%3a//webradio.tda.dz/Tindouf_64K.mp3:Radio Tindouf
+#DESCRIPTION Radio Tindouf
+#SERVICE 4097:0:1:14D:1:1:1BC:0:0:0:https%3a//webradio.tda.dz/Tissemssilt_64K.mp3:Radio Tissemssilt
+#DESCRIPTION Radio Tissemssilt
+#SERVICE 4097:0:1:14D:1:1:1BC:0:0:0:https%3a//webradio.tda.dz/ouedSouf_64K.mp3:Radio OuedSouf
+#DESCRIPTION Radio OuedSouf
+#SERVICE 4097:0:1:14D:1:1:1BC:0:0:0:https%3a//webradio.tda.dz/Khenchela_64K.mp3:Radio Khenchela
+#DESCRIPTION Radio Khenchela
+#SERVICE 4097:0:1:14D:1:1:1BC:0:0:0:https%3a//webradio.tda.dz/SoukAhras_64K.mp3:Radio SoukAhras
+#DESCRIPTION Radio SoukAhras
+#SERVICE 4097:0:1:14D:1:1:1BC:0:0:0:https%3a//webradio.tda.dz/Tipaza_64K.mp3:Radio Tipaza
+#DESCRIPTION Radio Tipaza
+#SERVICE 4097:0:1:14D:1:1:1BC:0:0:0:https%3a//webradio.tda.dz/Mila_64K.mp3:Radio Mila
+#DESCRIPTION Radio Mila
+#SERVICE 4097:0:1:14D:1:1:1BC:0:0:0:https%3a//webradio.tda.dz/AinDefla_64K.mp3:Radio AinDefla
+#DESCRIPTION Radio AinDefla
+#SERVICE 4097:0:1:14D:1:1:1BC:0:0:0:https%3a//webradio.tda.dz/Naama_64K.mp3:Radio Naama
+#DESCRIPTION Radio Naama
+#SERVICE 4097:0:1:14D:1:1:1BC:0:0:0:https%3a//webradio.tda.dz/AinTimouchent_64K.mp3:Radio Ain Timouchent
+#DESCRIPTION Radio Ain Timouchent
+#SERVICE 4097:0:1:14D:1:1:1BC:0:0:0:https%3a//webradio.tda.dz/Ghardaia_64K.mp3:RadioGhardaia
+#DESCRIPTION RadioGhardaia
+#SERVICE 4097:0:1:14D:1:1:1BC:0:0:0:https%3a//webradio.tda.dz/Relizan_64K.mp3:Radio Relizan
+#DESCRIPTION Radio Relizan

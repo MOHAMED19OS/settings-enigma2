@@ -36,3 +36,6 @@
 #SERVICE 1:64:0:0:0:0:0:0:0:0::•••••| Music |•••••
 #DESCRIPTION •••••| Music |•••••
 #SERVICE 1:0:19:13D:4:D5:1C20000:0:0:0:
+#SERVICE 1:64:0:0:0:0:0:0:0:0::•••••| Other |•••••
+#DESCRIPTION •••••| Other |•••••
+#SERVICE 1:0:1:F8:2:D5:1C20000:0:0:0:
