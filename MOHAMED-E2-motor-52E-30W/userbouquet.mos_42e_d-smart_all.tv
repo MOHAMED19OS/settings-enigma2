@@ -21,6 +21,9 @@
 #SERVICE 1:0:19:77A:9:42:1A40000:0:0:0:
 #SERVICE 1:0:19:554:3:42:1A40000:0:0:0:
 #SERVICE 1:0:19:773:9:42:1A40000:0:0:0:
+#SERVICE 1:64:0:0:0:0:0:0:0:0::•••••| Children |•••••
+#DESCRIPTION •••••| Children |•••••
+#SERVICE 1:0:19:6B3:7:42:1A40000:0:0:0:
 #SERVICE 1:64:2C5:0:0:0:0:0:0:0::•••••| Cultural • Nature |•••••
 #DESCRIPTION •••••| Cultural • Nature |•••••
 #SERVICE 1:0:19:3332:A1BC:1:1A40000:0:0:0:
@@ -39,6 +42,3 @@
 #SERVICE 1:64:0:0:0:0:0:0:0:0::•••••| Music |•••••
 #DESCRIPTION •••••| Music |•••••
 #SERVICE 1:0:19:76E:9:42:1A40000:0:0:0:
-#SERVICE 1:64:0:0:0:0:0:0:0:0::•••••| Game |•••••
-#DESCRIPTION •••••| Game |•••••
-#SERVICE 1:0:19:487:1:42:1A40000:0:0:0:
