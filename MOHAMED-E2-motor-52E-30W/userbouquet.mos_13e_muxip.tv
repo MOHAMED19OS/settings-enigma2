@@ -8,6 +8,9 @@
 #DESCRIPTION •••••| Entertainment |•••••
 #SERVICE 1:0:1:5DE:321:13E:820000:0:0:0:
 #SERVICE 1:0:1:5E2:321:13E:820000:0:0:0:
+#SERVICE 1:64:0:0:0:0:0:0:0:0::•••••| Cultural • Nature |•••••
+#DESCRIPTION •••••| Cultural • Nature |•••••
+#SERVICE 1:0:1:5E5:321:13E:820000:0:0:0:
 #SERVICE 1:64:0:0:0:0:0:0:0:0::•••••| Game |•••••
 #DESCRIPTION •••••| Game |•••••
 #SERVICE 1:0:1:5DD:321:13E:820000:0:0:0:
