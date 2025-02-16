@@ -205,7 +205,7 @@ fff80000:02cc:0600
 	s 12437000:30000000:1:2:48:2:0:1:2:0:2
 /
 00300000:0035:0055
-	s 12245000:30000000:1:2:48:2:0:1:2:0:2:1:1:1:1:1:1:1:1
+	s 12245000:30000000:1:2:48:2:0:1:2:0:2:1:1:1:1:1:1:1:1:1
 /
 00300000:0065:0001
 	s 12226000:31428000:0:8:48:2:0:1:1:0:2
@@ -253,7 +253,7 @@ fff80000:02cc:0600
 	s 10887000:30000000:0:2:70:2:0:1:2:0:2
 /
 00460000:5208:007e
-	s 10928000:30000000:0:3:70:2:0:1:2:0:2:1:1:1:1:1:1:1:1
+	s 10928000:30000000:0:3:70:2:0:1:2:0:2:1:1:1:1:1:1:1:1:1
 /
 00460000:526c:007e
 	s 10887000:30000000:1:4:70:2:0:1:1:0:2
@@ -6891,7 +6891,7 @@ p:DigitALB
 T7 HD
 p:DigitALB,c:0013f7,c:0113f8,c:0313f7,c:050001,C:0b00
 03eb:00a00000:50dc:016e:25:0:0
-Family HD
+DigitAlb 20 Vjet
 p:DigitALB,C:0000
 03ec:00a00000:50dc:016e:25:0:0
 SS-1 HD
@@ -10442,12 +10442,6 @@ p:Al Jazeera,c:00025c,c:010348,c:03025c,c:050001
 2779:01040000:03f2:00e0:25:0:0
 Al Jazeera Mubasher 2 HD
 p:Al Jazeera
-29cd:01040000:042e:00e0:25:0:0
-beIN SPORTS 3 EN
-p:beIN,c:00021d,c:01021f,c:03021d,c:050001,C:0000,f:1000
-29d0:01040000:042e:00e0:25:0:0
-beIN SPORTS 3 FR
-p:beIN,C:0000,f:1000
 2a99:01040000:0442:00e0:25:0:0
 Al Seraj TV
 p:EshailSat
@@ -10590,8 +10584,8 @@ p:beIN SPORTS,c:0002bd,c:0102be,c:0302bd,c:050001,C:0000,f:1000
 Cartoonito
 p:beIN Sports,c:0001ff,c:0301ff,c:040201,c:050001,C:0603,C:0627,C:09b5,f:1000
 9dd2:01040000:0fc8:00e0:25:0:0
-Cartoon Network English HD
-p:beIN Sports,C:0000,f:1000
+Cartoon Network HD
+p:beIN Sports
 9dd3:01040000:0fc8:00e0:25:0:0
 CNN HD
 p:beIN Sports,C:0000
@@ -10601,15 +10595,12 @@ p:beIN,C:0000
 9dd5:01040000:0fc8:00e0:25:0:0
 TCM HD
 p:beIN Sports,C:0000
-9dd6:01040000:0fc8:00e0:25:0:0
-Cartoon Network Hindi
-p:beIN Sports,C:0000,f:1000
 9dd7:01040000:0fc8:00e0:25:0:0
 Cbeebies
 p:beIN Sports,c:000245,c:010246,c:030245,c:050001,C:0000
-9dd8:01040000:0fc8:00e0:25:0:0
-Dream Works
-p:beIN Sports,c:00024f,c:010250,c:03024f,c:050001,C:0000
+9dda:01040000:0fc8:00e0:25:0:0
+Cartoon Network Arabic
+p:beIN
 9ddb:01040000:0fc8:00e0:25:0:0
 beIN GOURMET
 p:beIN
@@ -10619,9 +10610,6 @@ p:beIN Sports,c:00032b,c:01032c,c:03032b,c:050001,c:093300101,C:0000
 9e37:01040000:0fd2:00e0:25:0:0
 Nat Geo Wild HD
 p:beIN Sports,C:0000
-9e3e:01040000:0fd2:00e0:25:0:0
-Star Life
-p:beIN
 9e3f:01040000:0fd2:00e0:25:0:0
 Travel Channel
 p:beIN,C:0000
@@ -15813,5 +15801,5 @@ p:,c:0004db,c:01053f,c:02034b,c:0304db,c:050001,f:1000
 NASA
 p:,c:001041,c:011044,c:031041,c:050007
 end
-# 999 transponders and 4271 services.
-# Created by E-Channelizer v19.0.0.223 on 14 Feb, 2025 at 12:40 - https://www.echannelizer.com
+# 999 transponders and 4267 services.
+# Created by E-Channelizer v19.0.0.223 on 16 Feb, 2025 at 12:04 - https://www.echannelizer.com
