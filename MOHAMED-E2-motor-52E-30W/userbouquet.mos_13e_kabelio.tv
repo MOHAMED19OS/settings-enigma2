@@ -1,10 +1,10 @@
 #NAME • 13,0 E - Kabelio
-#SERVICE 1:64:145:0:0:0:0:0:0:0::•••••| Sport |•••••
-#DESCRIPTION •••••| Sport |•••••
+#SERVICE 1:64:145:0:0:0:0:0:0:0::------| Sport |------
+#DESCRIPTION ------| Sport |------
 #SERVICE 1:0:19:D5:2DB4:13E:820000:0:0:0:
 #SERVICE 1:0:1:76:3264:13E:820000:0:0:0:
-#SERVICE 1:64:13E:0:0:0:0:0:0:0::•••••| Switzerland |•••••
-#DESCRIPTION •••••| Switzerland |•••••
+#SERVICE 1:64:13E:0:0:0:0:0:0:0::------| Switzerland |------
+#DESCRIPTION ------| Switzerland |------
 #SERVICE 1:0:19:64:3264:13E:820000:0:0:0:
 #SERVICE 1:0:19:65:3264:13E:820000:0:0:0:
 #SERVICE 1:0:19:66:3264:13E:820000:0:0:0:
@@ -20,14 +20,14 @@
 #SERVICE 1:0:19:73:3264:13E:820000:0:0:0:
 #SERVICE 1:0:19:7F:3264:13E:820000:0:0:0:
 #SERVICE 1:0:19:D4:2DB4:13E:820000:0:0:0:
-#SERVICE 1:64:13F:0:0:0:0:0:0:0::•••••| Austria |•••••
-#DESCRIPTION •••••| Austria |•••••
+#SERVICE 1:64:13F:0:0:0:0:0:0:0::------| Austria |------
+#DESCRIPTION ------| Austria |------
 #SERVICE 1:0:19:6D:3264:13E:820000:0:0:0:
 #SERVICE 1:0:19:6E:3264:13E:820000:0:0:0:
 #SERVICE 1:0:19:74:3264:13E:820000:0:0:0:
 #SERVICE 1:0:19:6C:3264:13E:820000:0:0:0:
-#SERVICE 1:64:140:0:0:0:0:0:0:0::•••••| Deutschland |•••••
-#DESCRIPTION •••••| Deutschland |•••••
+#SERVICE 1:64:140:0:0:0:0:0:0:0::------| Deutschland |------
+#DESCRIPTION ------| Deutschland |------
 #SERVICE 1:0:19:84:3264:13E:820000:0:0:0:
 #SERVICE 1:0:19:85:3264:13E:820000:0:0:0:
 #SERVICE 1:0:19:D3:2DB4:13E:820000:0:0:0:
@@ -39,11 +39,11 @@
 #SERVICE 1:0:19:CE:2DB4:13E:820000:0:0:0:
 #SERVICE 1:0:19:CC:2DB4:13E:820000:0:0:0:
 #SERVICE 1:0:1:75:3264:13E:820000:0:0:0:
-#SERVICE 1:64:141:0:0:0:0:0:0:0::•••••| Italy |•••••
-#DESCRIPTION •••••| Italy |•••••
+#SERVICE 1:64:141:0:0:0:0:0:0:0::------| Italy |------
+#DESCRIPTION ------| Italy |------
 #SERVICE 1:0:19:FB:2DB4:13E:820000:0:0:0:
-#SERVICE 1:64:142:0:0:0:0:0:0:0::•••••| France |•••••
-#DESCRIPTION •••••| France |•••••
+#SERVICE 1:64:142:0:0:0:0:0:0:0::------| France |------
+#DESCRIPTION ------| France |------
 #SERVICE 1:0:19:F1:2DB4:13E:820000:0:0:0:
 #SERVICE 1:0:1:12E:3E1C:13F:820000:0:0:0:
 #SERVICE 1:0:1:12F:3E1C:13F:820000:0:0:0:
@@ -53,8 +53,8 @@
 #SERVICE 1:0:19:F3:2DB4:13E:820000:0:0:0:
 #SERVICE 1:0:19:CF:2DB4:13E:820000:0:0:0:
 #SERVICE 1:0:19:D0:2DB4:13E:820000:0:0:0:
-#SERVICE 1:64:143:0:0:0:0:0:0:0::•••••| British |•••••
-#DESCRIPTION •••••| British |•••••
+#SERVICE 1:64:143:0:0:0:0:0:0:0::------| British |------
+#DESCRIPTION ------| British |------
 #SERVICE 1:0:19:DD:2DB4:13E:820000:0:0:0:
 #SERVICE 1:0:19:DE:2DB4:13E:820000:0:0:0:
 #SERVICE 1:0:19:DF:2DB4:13E:820000:0:0:0:
@@ -65,15 +65,15 @@
 #SERVICE 1:0:19:E4:2DB4:13E:820000:0:0:0:
 #SERVICE 1:0:19:E5:2DB4:13E:820000:0:0:0:
 #SERVICE 1:0:19:E6:2DB4:13E:820000:0:0:0:
-#SERVICE 1:64:144:0:0:0:0:0:0:0::•••••| Movies |•••••
-#DESCRIPTION •••••| Movies |•••••
+#SERVICE 1:64:144:0:0:0:0:0:0:0::------| Movies |------
+#DESCRIPTION ------| Movies |------
 #SERVICE 1:0:19:E7:2DB4:13E:820000:0:0:0:
-#SERVICE 1:64:146:0:0:0:0:0:0:0::•••••| Music |•••••
-#DESCRIPTION •••••| Music |•••••
+#SERVICE 1:64:146:0:0:0:0:0:0:0::------| Music |------
+#DESCRIPTION ------| Music |------
 #SERVICE 1:0:19:F2:2DB4:13E:820000:0:0:0:
 #SERVICE 1:0:1:101:2DB4:13E:820000:0:0:0:
-#SERVICE 1:64:147:0:0:0:0:0:0:0::•••••| Information |•••••
-#DESCRIPTION •••••| Information |•••••
+#SERVICE 1:64:147:0:0:0:0:0:0:0::------| Information |------
+#DESCRIPTION ------| Information |------
 #SERVICE 1:0:19:100:2DB4:13E:820000:0:0:0:
 #SERVICE 1:0:1:87:3264:13E:820000:0:0:0:
 #SERVICE 1:0:1:88:3264:13E:820000:0:0:0:

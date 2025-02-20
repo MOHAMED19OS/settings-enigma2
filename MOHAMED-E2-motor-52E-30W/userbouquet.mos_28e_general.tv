@@ -1,25 +1,25 @@
 #NAME • 28,2 E - General
-#SERVICE 1:64:0:0:0:0:0:0:0:0::•••••| General |•••••
-#DESCRIPTION •••••| General |•••••
+#SERVICE 1:64:0:0:0:0:0:0:0:0::------| General |------
+#DESCRIPTION ------| General |------
 #SERVICE 1:0:19:1BBD:835:2:11A0000:0:0:0:
 #SERVICE 1:0:19:CF9B:83A:2:11A0000:0:0:0:
-#SERVICE 1:64:0:0:0:0:0:0:0:0::•••••| Cultural • Nature |•••••
-#DESCRIPTION •••••| Cultural • Nature |•••••
+#SERVICE 1:64:0:0:0:0:0:0:0:0::------| Cultural ★ Nature |------
+#DESCRIPTION ------| Cultural ★ Nature |------
 #SERVICE 1:0:19:C5A8:842:2:11A0000:0:0:0:
 #SERVICE 1:0:19:C7AE:817:2:11A0000:0:0:0:
-#SERVICE 1:64:0:0:0:0:0:0:0:0::•••••| Entertainment |•••••
-#DESCRIPTION •••••| Entertainment |•••••
+#SERVICE 1:64:0:0:0:0:0:0:0:0::------| Entertainment |------
+#DESCRIPTION ------| Entertainment |------
 #SERVICE 1:0:19:1BBC:835:2:11A0000:0:0:0:
-#SERVICE 1:64:29F:0:0:0:0:0:0:0::•••••| News |•••••
-#DESCRIPTION •••••| News |•••••
+#SERVICE 1:64:29F:0:0:0:0:0:0:0::------| News |------
+#DESCRIPTION ------| News |------
 #SERVICE 1:0:19:CD5D:902:2:11A0000:0:0:0:
 #SERVICE 1:0:19:C472:837:2:11A0000:0:0:0:
 #SERVICE 1:0:19:C441:837:2:11A0000:0:0:0:
-#SERVICE 1:64:0:0:0:0:0:0:0:0::•••••| Business |•••••
-#DESCRIPTION •••••| Business |•••••
+#SERVICE 1:64:0:0:0:0:0:0:0:0::------| Business |------
+#DESCRIPTION ------| Business |------
 #SERVICE 1:0:19:D7E9:82C:2:11A0000:0:0:0:
-#SERVICE 1:64:29E:0:0:0:0:0:0:0::•••••| Shopping |•••••
-#DESCRIPTION •••••| Shopping |•••••
+#SERVICE 1:64:29E:0:0:0:0:0:0:0::------| Shopping |------
+#DESCRIPTION ------| Shopping |------
 #SERVICE 1:0:19:D813:838:2:11A0000:0:0:0:
 #SERVICE 1:0:19:C532:813:2:11A0000:0:0:0:
 #SERVICE 1:0:19:C530:813:2:11A0000:0:0:0:

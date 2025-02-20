@@ -1,21 +1,21 @@
 #NAME • 26,0 E - Tunisie • تـــونــــس
-#SERVICE 1:64:248:0:0:0:0:0:0:0::•••••::| HD |::•••••
-#DESCRIPTION •••••::| HD |::•••••
-#SERVICE 1:64:249:0:0:0:0:0:0:0::•••••| General |•••••
-#DESCRIPTION •••••| General |•••••
+#SERVICE 1:64:248:0:0:0:0:0:0:0::------::| HD |::------
+#DESCRIPTION ------::| HD |::------
+#SERVICE 1:64:249:0:0:0:0:0:0:0::------| General |------
+#DESCRIPTION ------| General |------
 #SERVICE 1:0:19:44C:1137:21AC:1040000:0:0:0:
 #SERVICE 1:0:19:4B0:1137:21AC:1040000:0:0:0:
-#SERVICE 1:64:24A:0:0:0:0:0:0:0::•••••::| SD |::•••••
-#DESCRIPTION •••••::| SD |::•••••
-#SERVICE 1:64:24B:0:0:0:0:0:0:0::•••••| General |•••••
-#DESCRIPTION •••••| General |•••••
+#SERVICE 1:64:24A:0:0:0:0:0:0:0::------::| SD |::------
+#DESCRIPTION ------::| SD |::------
+#SERVICE 1:64:24B:0:0:0:0:0:0:0::------| General |------
+#DESCRIPTION ------| General |------
 #SERVICE 1:0:1:E:1137:21AC:1040000:0:0:0:
 #SERVICE 1:0:1:11:1137:21AC:1040000:0:0:0:
 #SERVICE 1:0:1:12:1137:21AC:1040000:0:0:0:
 #SERVICE 1:0:1:14:1137:21AC:1040000:0:0:0:
-#SERVICE 1:64:24C:0:0:0:0:0:0:0::•••••| Others |•••••
-#DESCRIPTION •••••| Others |•••••
+#SERVICE 1:64:24C:0:0:0:0:0:0:0::------| Others |------
+#DESCRIPTION ------| Others |------
 #SERVICE 1:0:1:D:1137:21AC:1040000:0:0:0:
-#SERVICE 1:64:24E:0:0:0:0:0:0:0::•••••| Music |•••••
-#DESCRIPTION •••••| Music |•••••
+#SERVICE 1:64:24E:0:0:0:0:0:0:0::------| Music |------
+#DESCRIPTION ------| Music |------
 #SERVICE 1:0:1:F:1137:21AC:1040000:0:0:0:

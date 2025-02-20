@@ -1,9 +1,9 @@
 #NAME • 13,0 E - Arabic
-#SERVICE 1:64:15D:0:0:0:0:0:0:0::•••••| Sport |•••••
-#DESCRIPTION •••••| Sport |•••••
+#SERVICE 1:64:15D:0:0:0:0:0:0:0::------| Sport |------
+#DESCRIPTION ------| Sport |------
 #SERVICE 1:0:1:A:2E18:B0:820000:0:0:0:
-#SERVICE 1:64:15E:0:0:0:0:0:0:0::•••••| General |•••••
-#DESCRIPTION •••••| General |•••••
+#SERVICE 1:64:15E:0:0:0:0:0:0:0::------| General |------
+#DESCRIPTION ------| General |------
 #SERVICE 1:0:1:7:2E18:B0:820000:0:0:0:
 #SERVICE 1:0:19:2523:13EF:13E:820000:0:0:0:
 #SERVICE 1:0:19:4B5:23F0:13E:820000:0:0:0:
@@ -29,12 +29,12 @@
 #SERVICE 1:0:1:89C:1F4:13E:820000:0:0:0:
 #SERVICE 1:0:1:38E:2134:13E:820000:0:0:0:
 #SERVICE 1:0:1:392:2134:13E:820000:0:0:0:
-#SERVICE 1:64:15F:0:0:0:0:0:0:0::•••••| Cultural • Nature |•••••
-#DESCRIPTION •••••| Cultural • Nature |•••••
+#SERVICE 1:64:15F:0:0:0:0:0:0:0::------| Cultural ★ Nature |------
+#DESCRIPTION ------| Cultural ★ Nature |------
 #SERVICE 1:0:1:4:2E18:B0:820000:0:0:0:
 #SERVICE 1:0:1:2C1:1B58:13E:820000:0:0:0:
-#SERVICE 1:64:160:0:0:0:0:0:0:0::•••••| News |•••••
-#DESCRIPTION •••••| News |•••••
+#SERVICE 1:64:160:0:0:0:0:0:0:0::------| News |------
+#DESCRIPTION ------| News |------
 #SERVICE 1:0:19:4B4:23F0:13E:820000:0:0:0:
 #SERVICE 1:0:19:252A:13EF:13E:820000:0:0:0:
 #SERVICE 1:0:19:645:2454:13E:820000:0:0:0:
@@ -47,12 +47,12 @@
 #SERVICE 1:0:1:332E:1388:13E:820000:0:0:0:
 #SERVICE 1:0:19:652:2454:13E:820000:0:0:0:
 #SERVICE 1:0:1:89D:1F4:13E:820000:0:0:0:
-#SERVICE 1:64:161:0:0:0:0:0:0:0::•••••| Religious |•••••
-#DESCRIPTION •••••| Religious |•••••
+#SERVICE 1:64:161:0:0:0:0:0:0:0::------| Religious |------
+#DESCRIPTION ------| Religious |------
 #SERVICE 1:0:1:6:2E18:B0:820000:0:0:0:
 #SERVICE 1:0:19:4B3:23F0:13E:820000:0:0:0:
 #SERVICE 1:0:19:4B2:23F0:13E:820000:0:0:0:
-#SERVICE 1:64:166:0:0:0:0:0:0:0::•••••| Religious |•••••
-#DESCRIPTION •••••| Religious |•••••
+#SERVICE 1:64:166:0:0:0:0:0:0:0::------| Religious |------
+#DESCRIPTION ------| Religious |------
 #SERVICE 1:0:1:6A5:3138:13E:820000:0:0:0:
 #SERVICE 1:0:1:2525:13EF:13E:820000:0:0:0:

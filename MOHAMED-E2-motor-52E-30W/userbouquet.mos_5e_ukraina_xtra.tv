@@ -1,9 +1,9 @@
 #NAME • 4,8 E - Ukraina
-#SERVICE 1:64:0:0:0:0:0:0:0:0::•••••| Sport |•••••
-#DESCRIPTION •••••| Sport |•••••
+#SERVICE 1:64:0:0:0:0:0:0:0:0::------| Sport |------
+#DESCRIPTION ------| Sport |------
 #SERVICE 1:0:1:1F01:2E:55:300000:0:0:0:
-#SERVICE 1:64:107:0:0:0:0:0:0:0::•••••| General |•••••
-#DESCRIPTION •••••| General |•••••
+#SERVICE 1:64:107:0:0:0:0:0:0:0::------| General |------
+#DESCRIPTION ------| General |------
 #SERVICE 1:0:19:1EE7:2E:55:300000:0:0:0:
 #SERVICE 1:0:19:17D5:C:55:300000:0:0:0:
 #SERVICE 1:0:19:1EE9:2E:55:300000:0:0:0:
@@ -20,27 +20,27 @@
 #SERVICE 1:0:1:1EFB:2E:55:300000:0:0:0:
 #SERVICE 1:0:19:1D9C:107B:55:300000:0:0:0:
 #SERVICE 1:0:19:1D74:107B:55:300000:0:0:0:
-#SERVICE 1:64:0:0:0:0:0:0:0:0::•••••| Movies |•••••
-#DESCRIPTION •••••| Movies |•••••
+#SERVICE 1:64:0:0:0:0:0:0:0:0::------| Movies |------
+#DESCRIPTION ------| Movies |------
 #SERVICE 1:0:19:1D5B:107B:55:300000:0:0:0:
 #SERVICE 1:0:19:1D65:107B:55:300000:0:0:0:
 #SERVICE 1:0:19:1D6F:107B:55:300000:0:0:0:
 #SERVICE 1:0:19:1EF5:2E:55:300000:0:0:0:
 #SERVICE 1:0:1:1F03:2E:55:300000:0:0:0:
-#SERVICE 1:64:0:0:0:0:0:0:0:0::•••••| Cultural • Nature |•••••
-#DESCRIPTION •••••| Cultural • Nature |•••••
+#SERVICE 1:64:0:0:0:0:0:0:0:0::------| Cultural ★ Nature |------
+#DESCRIPTION ------| Cultural ★ Nature |------
 #SERVICE 1:0:19:1EEB:2E:55:300000:0:0:0:
 #SERVICE 1:0:1:1EFD:2E:55:300000:0:0:0:
-#SERVICE 1:64:0:0:0:0:0:0:0:0::•••••| Children |•••••
-#DESCRIPTION •••••| Children |•••••
+#SERVICE 1:64:0:0:0:0:0:0:0:0::------| Children |------
+#DESCRIPTION ------| Children |------
 #SERVICE 1:0:19:1EF3:2E:55:300000:0:0:0:
-#SERVICE 1:64:0:0:0:0:0:0:0:0::•••••| News |•••••
-#DESCRIPTION •••••| News |•••••
+#SERVICE 1:64:0:0:0:0:0:0:0:0::------| News |------
+#DESCRIPTION ------| News |------
 #SERVICE 1:0:1:1EFF:2E:55:300000:0:0:0:
-#SERVICE 1:64:108:0:0:0:0:0:0:0::•••••| Others |•••••
-#DESCRIPTION •••••| Others |•••••
+#SERVICE 1:64:108:0:0:0:0:0:0:0::------| Others |------
+#DESCRIPTION ------| Others |------
 #SERVICE 1:0:1:1DCE:2B:55:300000:0:0:0:
-#SERVICE 1:64:0:0:0:0:0:0:0:0::•••••| Music |•••••
-#DESCRIPTION •••••| Music |•••••
+#SERVICE 1:64:0:0:0:0:0:0:0:0::------| Music |------
+#DESCRIPTION ------| Music |------
 #SERVICE 1:0:19:198C:107B:55:300000:0:0:0:
 #SERVICE 1:0:19:1996:107B:55:300000:0:0:0:

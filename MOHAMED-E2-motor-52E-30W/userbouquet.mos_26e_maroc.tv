@@ -1,23 +1,23 @@
 #NAME • 26,0 E - Maroc • المــــغــرب
-#SERVICE 1:64:244:0:0:0:0:0:0:0::•••••| Sport |•••••
-#DESCRIPTION •••••| Sport |•••••
+#SERVICE 1:64:244:0:0:0:0:0:0:0::------| Sport |------
+#DESCRIPTION ------| Sport |------
 #SERVICE 1:0:19:D:2:1:1040000:0:0:0:
-#SERVICE 1:64:245:0:0:0:0:0:0:0::•••••| General |•••••
-#DESCRIPTION •••••| General |•••••
+#SERVICE 1:64:245:0:0:0:0:0:0:0::------| General |------
+#DESCRIPTION ------| General |------
 #SERVICE 1:0:1:B:1:1:104ABAC:0:0:0:
 #SERVICE 1:0:1:2:1:1:104ABAC:0:0:0:
 #SERVICE 1:0:19:A:2:1:1040000:0:0:0:
 #SERVICE 1:0:1:9:2:1:1040000:0:0:0:
 #SERVICE 1:0:1:8:2:1:1040000:0:0:0:
-#SERVICE 1:64:0:0:0:0:0:0:0:0::•••••| Movies |•••••
-#DESCRIPTION •••••| Movies |•••••
+#SERVICE 1:64:0:0:0:0:0:0:0:0::------| Movies |------
+#DESCRIPTION ------| Movies |------
 #SERVICE 1:0:19:7:2:1:1040000:0:0:0:
-#SERVICE 1:64:246:0:0:0:0:0:0:0::•••••| Entertainment |•••••
-#DESCRIPTION •••••| Entertainment |•••••
+#SERVICE 1:64:246:0:0:0:0:0:0:0::------| Entertainment |------
+#DESCRIPTION ------| Entertainment |------
 #SERVICE 1:0:1:4:1:1:104ABAC:0:0:0:
-#SERVICE 1:64:0:0:0:0:0:0:0:0::•••••| Quran |•••••
-#DESCRIPTION •••••| Quran |•••••
+#SERVICE 1:64:0:0:0:0:0:0:0:0::------| Quran |------
+#DESCRIPTION ------| Quran |------
 #SERVICE 1:0:19:10:2:1:1040000:0:0:0:
-#SERVICE 1:64:247:0:0:0:0:0:0:0::•••••| News |•••••
-#DESCRIPTION •••••| News |•••••
+#SERVICE 1:64:247:0:0:0:0:0:0:0::------| News |------
+#DESCRIPTION ------| News |------
 #SERVICE 1:0:1:5:1:1:104ABAC:0:0:0:

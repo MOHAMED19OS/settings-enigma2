@@ -1,6 +1,6 @@
 #NAME • 16,0 E - NURTS • Bulgaria
-#SERVICE 1:64:0:0:0:0:0:0:0:0::•••••| General |•••••
-#DESCRIPTION •••••| General |•••••
+#SERVICE 1:64:0:0:0:0:0:0:0:0::------| General |------
+#DESCRIPTION ------| General |------
 #SERVICE 1:0:1:4:14B4:2064:A00000:0:0:0:
 #SERVICE 1:0:1:5:14B4:2064:A00000:0:0:0:
 #SERVICE 1:0:1:6:14B4:2064:A00000:0:0:0:

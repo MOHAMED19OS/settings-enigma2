@@ -1,6 +1,6 @@
 #NAME • 16,0 E - Vidi
-#SERVICE 1:64:0:0:0:0:0:0:0:0::•••••| General |•••••
-#DESCRIPTION •••••| General |•••••
+#SERVICE 1:64:0:0:0:0:0:0:0:0::------| General |------
+#DESCRIPTION ------| General |------
 #SERVICE 1:0:1:FA1:2C89:190:0:0:0:0:http%3a//0.0.0.0%3a9999/dasto0/11402plp0:O Kanal
 #DESCRIPTION O Kanal
 #SERVICE 1:0:1:FA4:2C89:190:0:0:0:0:http%3a//0.0.0.0%3a9999/dasto0/11402plp0:BN TV
@@ -27,18 +27,18 @@
 #DESCRIPTION RTV TK
 #SERVICE 1:0:1:FB1:2C89:190:0:0:0:0:http%3a//0.0.0.0%3a9999/dasto0/11402plp0:NTV Arena
 #DESCRIPTION NTV Arena
-#SERVICE 1:64:0:0:0:0:0:0:0:0::•••••| Entertainment |•••••
-#DESCRIPTION •••••| Entertainment |•••••
+#SERVICE 1:64:0:0:0:0:0:0:0:0::------| Entertainment |------
+#DESCRIPTION ------| Entertainment |------
 #SERVICE 1:0:1:FA3:2C89:190:0:0:0:0:http%3a//0.0.0.0%3a9999/dasto0/11402plp0:NOVA BH
 #DESCRIPTION NOVA BH
-#SERVICE 1:64:0:0:0:0:0:0:0:0::•••••| Music |•••••
-#DESCRIPTION •••••| Music |•••••
+#SERVICE 1:64:0:0:0:0:0:0:0:0::------| Music |------
+#DESCRIPTION ------| Music |------
 #SERVICE 1:0:1:FA5:2C89:190:0:0:0:0:http%3a//0.0.0.0%3a9999/dasto0/11402plp0:O Music
 #DESCRIPTION O Music
-#SERVICE 1:64:0:0:0:0:0:0:0:0::•••••| Regional |•••••
-#DESCRIPTION •••••| Regional |•••••
+#SERVICE 1:64:0:0:0:0:0:0:0:0::------| Regional |------
+#DESCRIPTION ------| Regional |------
 #SERVICE 1:0:1:FAE:2C89:190:0:0:0:0:http%3a//0.0.0.0%3a9999/dasto0/11402plp0:RTV BPK
 #DESCRIPTION RTV BPK
-#SERVICE 1:64:0:0:0:0:0:0:0:0::•••••| T2MI |•••••
-#DESCRIPTION •••••| T2MI |•••••
+#SERVICE 1:64:0:0:0:0:0:0:0:0::------| T2MI |------
+#DESCRIPTION ------| T2MI |------
 #SERVICE 1:0:1:FA1:190:0:A0AC8A:0:0:0:

@@ -1,10 +1,10 @@
 #NAME • 42,0 E - General
-#SERVICE 1:64:2BD:0:0:0:0:0:0:0::•••••| Sport |•••••
-#DESCRIPTION •••••| Sport |•••••
+#SERVICE 1:64:2BD:0:0:0:0:0:0:0::------| Sport |------
+#DESCRIPTION ------| Sport |------
 #SERVICE 1:0:1:2843:9F61:42E:1A40000:0:0:0:
 #SERVICE 1:0:19:CBFC:A925:42E:1A40000:0:0:0:
-#SERVICE 1:64:2BE:0:0:0:0:0:0:0::•••••| General |•••••
-#DESCRIPTION •••••| General |•••••
+#SERVICE 1:64:2BE:0:0:0:0:0:0:0::------| General |------
+#DESCRIPTION ------| General |------
 #SERVICE 1:0:11:4273:78B5:2A:1A40000:0:0:0:
 #SERVICE 1:0:1:4012:9E38:42E:1A40000:0:0:0:
 #SERVICE 1:0:1:2841:9F61:42E:1A40000:0:0:0:
@@ -26,25 +26,25 @@
 #SERVICE 1:0:19:CF09:7AAA:42E:1A40000:0:0:0:
 #SERVICE 1:0:1:CF08:7AAA:42E:1A40000:0:0:0:
 #SERVICE 1:0:1:CF0D:7AAA:42E:1A40000:0:0:0:
-#SERVICE 1:64:2BF:0:0:0:0:0:0:0::•••••| Cultural • Nature |•••••
-#DESCRIPTION •••••| Cultural • Nature |•••••
+#SERVICE 1:64:2BF:0:0:0:0:0:0:0::------| Cultural ★ Nature |------
+#DESCRIPTION ------| Cultural ★ Nature |------
 #SERVICE 1:0:11:4205:A929:2A:1A40000:0:0:0:
-#SERVICE 1:64:0:0:0:0:0:0:0:0::•••••| Entertainment |•••••
-#DESCRIPTION •••••| Entertainment |•••••
+#SERVICE 1:64:0:0:0:0:0:0:0:0::------| Entertainment |------
+#DESCRIPTION ------| Entertainment |------
 #SERVICE 1:0:19:390F:A21D:42E:1A40000:0:0:0:
-#SERVICE 1:64:2C0:0:0:0:0:0:0:0::•••••| News |•••••
-#DESCRIPTION •••••| News |•••••
+#SERVICE 1:64:2C0:0:0:0:0:0:0:0::------| News |------
+#DESCRIPTION ------| News |------
 #SERVICE 1:0:1:413C:A2E7:42E:1A40000:0:0:0:
 #SERVICE 1:0:1:2AFA:A1B9:42E:1A40000:0:0:0:
 #SERVICE 1:0:1:2842:9F61:42E:1A40000:0:0:0:
 #SERVICE 1:0:1:4010:9E38:42E:1A40000:0:0:0:
 #SERVICE 1:0:1:2AF9:A1B9:42E:1A40000:0:0:0:
 #SERVICE 1:0:1:2D51:A02B:42E:1A40000:0:0:0:
-#SERVICE 1:64:2C1:0:0:0:0:0:0:0::•••••| Music |•••••
-#DESCRIPTION •••••| Music |•••••
+#SERVICE 1:64:2C1:0:0:0:0:0:0:0::------| Music |------
+#DESCRIPTION ------| Music |------
 #SERVICE 1:0:19:390A:A21D:42E:1A40000:0:0:0:
 #SERVICE 1:0:1:CF0F:7AAA:42E:1A40000:0:0:0:
-#SERVICE 1:64:0:0:0:0:0:0:0:0::•••••| Other |•••••
-#DESCRIPTION •••••| Other |•••••
+#SERVICE 1:64:0:0:0:0:0:0:0:0::------| Other |------
+#DESCRIPTION ------| Other |------
 #SERVICE 1:0:1:CF0B:7AAA:42E:1A40000:0:0:0:
 #SERVICE 1:0:1:3933:A21D:42E:1A40000:0:0:0:

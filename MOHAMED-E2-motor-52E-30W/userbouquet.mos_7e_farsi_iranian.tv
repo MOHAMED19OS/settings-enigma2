@@ -1,20 +1,20 @@
 #NAME • 7,0 E - Farsi • Iranian
-#SERVICE 1:64:126:0:0:0:0:0:0:0::•••••| Movies |•••••
-#DESCRIPTION •••••| Movies |•••••
+#SERVICE 1:64:126:0:0:0:0:0:0:0::------| Movies |------
+#DESCRIPTION ------| Movies |------
 #SERVICE 1:0:1:200:765C:7E:460000:0:0:0:
 #SERVICE 1:0:1:13C:0:0:462BFE:0:0:0:
 #SERVICE 1:0:1:13D:0:0:462BFE:0:0:0:
 #SERVICE 1:0:1:139:0:0:462BFE:0:0:0:
-#SERVICE 1:64:127:0:0:0:0:0:0:0::•••••| Entertainment |•••••
-#DESCRIPTION •••••| Entertainment |•••••
+#SERVICE 1:64:127:0:0:0:0:0:0:0::------| Entertainment |------
+#DESCRIPTION ------| Entertainment |------
 #SERVICE 1:0:1:1:765C:7E:462C28:0:0:0:
 #SERVICE 1:0:1:775:9FC4:7E:460000:0:0:0:
 #SERVICE 1:0:1:810:7788:7E:460000:0:0:0:
 #SERVICE 1:0:1:207:765C:7E:460000:0:0:0:
 #SERVICE 1:0:1:1FE:765C:7E:460000:0:0:0::AVA Family HD
 #DESCRIPTION AVA Family HD
-#SERVICE 1:64:128:0:0:0:0:0:0:0::•••••| General |•••••
-#DESCRIPTION •••••| General |•••••
+#SERVICE 1:64:128:0:0:0:0:0:0:0::------| General |------
+#DESCRIPTION ------| General |------
 #SERVICE 1:0:1:203:765C:7E:460000:0:0:0:
 #SERVICE 1:0:1:201:765C:7E:462C28:0:0:0:
 #SERVICE 1:0:1:771:9FC4:7E:460000:0:0:0:
@@ -24,18 +24,18 @@
 #SERVICE 1:0:1:13F:0:0:462BFE:0:0:0:
 #SERVICE 1:0:1:13A:0:0:462BFE:0:0:0:
 #SERVICE 1:0:1:778:9FC4:7E:460000:0:0:0:
-#SERVICE 1:64:0:0:0:0:0:0:0:0::•••••| Children |•••••
-#DESCRIPTION •••••| Children |•••••
+#SERVICE 1:64:0:0:0:0:0:0:0:0::------| Children |------
+#DESCRIPTION ------| Children |------
 #SERVICE 1:0:1:13E:0:0:462BFE:0:0:0:
-#SERVICE 1:64:12A:0:0:0:0:0:0:0::•••••| News |•••••
-#DESCRIPTION •••••| News |•••••
+#SERVICE 1:64:12A:0:0:0:0:0:0:0::------| News |------
+#DESCRIPTION ------| News |------
 #SERVICE 1:0:1:1:4E20:64:460000:0:0:0:
 #SERVICE 1:0:1:777:9FC4:7E:460000:0:0:0:
-#SERVICE 1:64:0:0:0:0:0:0:0:0::•••••| Regional |•••••
-#DESCRIPTION •••••| Regional |•••••
+#SERVICE 1:64:0:0:0:0:0:0:0:0::------| Regional |------
+#DESCRIPTION ------| Regional |------
 #SERVICE 1:0:1:141:0:0:462BFE:0:0:0:
-#SERVICE 1:64:129:0:0:0:0:0:0:0::•••••| Music |•••••
-#DESCRIPTION •••••| Music |•••••
+#SERVICE 1:64:129:0:0:0:0:0:0:0::------| Music |------
+#DESCRIPTION ------| Music |------
 #SERVICE 1:0:1:202:765C:7E:460000:0:0:0:
 #SERVICE 1:0:19:811:7788:7E:460000:0:0:0:
 #SERVICE 1:0:1:774:9FC4:7E:460000:0:0:0::KANAL JADID
@@ -43,8 +43,8 @@
 #SERVICE 1:0:1:140:0:0:462BFE:0:0:0:
 #SERVICE 1:0:1:137:0:0:462BFE:0:0:0:
 #SERVICE 1:0:1:138:0:0:462BFE:0:0:0:
-#SERVICE 1:64:0:0:0:0:0:0:0:0::•••••| Other |•••••
-#DESCRIPTION •••••| Other |•••••
+#SERVICE 1:64:0:0:0:0:0:0:0:0::------| Other |------
+#DESCRIPTION ------| Other |------
 #SERVICE 1:0:1:12E:0:0:462BFE:0:0:0:
 #SERVICE 1:0:1:13B:0:0:462BFE:0:0:0:
 #SERVICE 1:0:1:142:9F98:7E:460000:0:0:0:

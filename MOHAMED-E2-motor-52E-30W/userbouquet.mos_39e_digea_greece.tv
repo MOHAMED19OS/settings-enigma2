@@ -1,6 +1,6 @@
 #NAME • 39,0 E - Digea • Greece
-#SERVICE 1:64:2AC:0:0:0:0:0:0:0::•••••| General |•••••
-#DESCRIPTION •••••| General |•••••
+#SERVICE 1:64:2AC:0:0:0:0:0:0:0::------| General |------
+#DESCRIPTION ------| General |------
 #SERVICE 1:0:1:44C:65:212C:1860000:0:0:0:
 #SERVICE 1:0:1:514:65:212C:1860000:0:0:0:
 #SERVICE 1:0:1:640:67:212C:1860000:0:0:0:

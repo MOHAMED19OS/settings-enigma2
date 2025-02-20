@@ -1,6 +1,6 @@
 #NAME • 4,8 E - SISLink-Live • PowerVu
-#SERVICE 1:64:101:0:0:0:0:0:0:0::•••••| General |•••••
-#DESCRIPTION •••••| General |•••••
+#SERVICE 1:64:101:0:0:0:0:0:0:0::------| General |------
+#DESCRIPTION ------| General |------
 #SERVICE 1:0:1:4B:65:1:303082:0:0:0::SIS One
 #DESCRIPTION SIS One
 #SERVICE 1:0:1:190:C9:1:302DCF:0:0:0:

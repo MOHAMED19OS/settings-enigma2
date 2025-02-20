@@ -1,6 +1,6 @@
 #NAME • 0,8 W - Allente • Telenor
-#SERVICE 1:64:CC:0:0:0:0:0:0:0::•••••| Sport |•••••
-#DESCRIPTION •••••| Sport |•••••
+#SERVICE 1:64:CC:0:0:0:0:0:0:0::------| Sport |------
+#DESCRIPTION ------| Sport |------
 #SERVICE 1:0:19:1D09:3E:46:E080000:0:0:0:
 #SERVICE 1:0:19:1D0A:2:46:E080000:0:0:0:
 #SERVICE 1:0:19:1D0B:23:46:E080000:0:0:0:
@@ -10,13 +10,13 @@
 #SERVICE 1:0:19:114D:45:46:E080000:0:0:0:
 #SERVICE 1:0:19:1150:2:46:E080000:0:0:0:
 #SERVICE 1:0:19:1CC2:19:46:E080000:0:0:0:
-#SERVICE 1:64:CD:0:0:0:0:0:0:0::•••••| Movies |•••••
-#DESCRIPTION •••••| Movies |•••••
+#SERVICE 1:64:CD:0:0:0:0:0:0:0::------| Movies |------
+#DESCRIPTION ------| Movies |------
 #SERVICE 1:0:19:1F0B:23:46:E080000:0:0:0:
 #SERVICE 1:0:19:1F0E:23:46:E080000:0:0:0:
 #SERVICE 1:0:19:FD5:2:46:E080000:0:0:0:
-#SERVICE 1:64:CE:0:0:0:0:0:0:0::•••••| Entertainment |•••••
-#DESCRIPTION •••••| Entertainment |•••••
+#SERVICE 1:64:CE:0:0:0:0:0:0:0::------| Entertainment |------
+#DESCRIPTION ------| Entertainment |------
 #SERVICE 1:0:19:1D3A:48:46:E080000:0:0:0:
 #SERVICE 1:0:19:1D43:48:46:E080000:0:0:0:
 #SERVICE 1:0:19:1D45:48:46:E080000:0:0:0:
@@ -30,8 +30,8 @@
 #SERVICE 1:0:19:1DB5:2B:46:E080000:0:0:0:
 #SERVICE 1:0:19:1DB6:2B:46:E080000:0:0:0:
 #SERVICE 1:0:19:1DB7:2B:46:E080000:0:0:0:
-#SERVICE 1:64:CF:0:0:0:0:0:0:0::•••••| Cultural • Nature |•••••
-#DESCRIPTION •••••| Cultural • Nature |•••••
+#SERVICE 1:64:CF:0:0:0:0:0:0:0::------| Cultural ★ Nature |------
+#DESCRIPTION ------| Cultural ★ Nature |------
 #SERVICE 1:0:19:1CF8:19:46:E080000:0:0:0:
 #SERVICE 1:0:19:1C06:29:46:E080000:0:0:0:
 #SERVICE 1:0:19:106A:29:46:E080000:0:0:0:
@@ -41,12 +41,12 @@
 #SERVICE 1:0:19:1D54:48:46:E080000:0:0:0:
 #SERVICE 1:0:19:1D55:48:46:E080000:0:0:0:
 #SERVICE 1:0:1:42BC:41:46:E080000:0:0:0:
-#SERVICE 1:64:0:0:0:0:0:0:0:0::•••••| Children |•••••
-#DESCRIPTION •••••| Children |•••••
+#SERVICE 1:64:0:0:0:0:0:0:0:0::------| Children |------
+#DESCRIPTION ------| Children |------
 #SERVICE 1:0:16:1D56:3E:46:E080000:0:0:0:
-#SERVICE 1:64:0:0:0:0:0:0:0:0::•••••| Music |•••••
-#DESCRIPTION •••••| Music |•••••
+#SERVICE 1:64:0:0:0:0:0:0:0:0::------| Music |------
+#DESCRIPTION ------| Music |------
 #SERVICE 1:0:16:1C04:41:46:E080000:0:0:0:
-#SERVICE 1:64:D1:0:0:0:0:0:0:0::•••••| Religious |•••••
-#DESCRIPTION •••••| Religious |•••••
+#SERVICE 1:64:D1:0:0:0:0:0:0:0::------| Religious |------
+#DESCRIPTION ------| Religious |------
 #SERVICE 1:0:19:1D7A:22:46:E080000:0:0:0:

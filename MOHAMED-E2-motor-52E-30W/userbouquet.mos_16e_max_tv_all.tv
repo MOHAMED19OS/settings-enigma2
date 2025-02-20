@@ -1,10 +1,10 @@
 #NAME • 16,0 E - Max TV
-#SERVICE 1:64:1AE:0:0:0:0:0:0:0::•••••::| Max |::•••••
-#DESCRIPTION •••••::| Max |::•••••
+#SERVICE 1:64:1AE:0:0:0:0:0:0:0::------::| Max |::------
+#DESCRIPTION ------::| Max |::------
 #SERVICE 1:0:19:D9:1:40:A00000:0:0:0:
 #SERVICE 1:0:19:50:2:40:A00000:0:0:0:
-#SERVICE 1:64:1AF:0:0:0:0:0:0:0::•••••::| Arena |::•••••
-#DESCRIPTION •••••::| Arena |::•••••
+#SERVICE 1:64:1AF:0:0:0:0:0:0:0::------::| Arena |::------
+#DESCRIPTION ------::| Arena |::------
 #SERVICE 1:0:19:19C:3:40:A00000:0:0:0::Arena Sport 1 HD
 #DESCRIPTION Arena Sport 1 HD
 #SERVICE 1:0:19:710:C5A8:16E:A00000:0:0:0:

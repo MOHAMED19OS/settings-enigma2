@@ -3,8 +3,8 @@
 #DESCRIPTION MBC HD
 #SERVICE 1:0:1:1:1:1:D7AD3F:0:0:0::MBC
 #DESCRIPTION MBC
-#SERVICE 1:64:0:0:0:0:0:0:0:0::•••••| Maser |•••••
-#DESCRIPTION •••••| Maser |•••••
+#SERVICE 1:64:0:0:0:0:0:0:0:0::------| Maser |------
+#DESCRIPTION ------| Maser |------
 #SERVICE 1:0:1:1:45:2BE:D70000:0:0:0::MBC Maser
 #DESCRIPTION MBC Maser
 #SERVICE 1:0:1:2:45:2BE:D70000:0:0:0::MBC Maser 2

@@ -1,6 +1,6 @@
 #NAME • 28,2 E - BSkyB
-#SERVICE 1:64:296:0:0:0:0:0:0:0::•••••| Sport |•••••
-#DESCRIPTION •••••| Sport |•••••
+#SERVICE 1:64:296:0:0:0:0:0:0:0::------| Sport |------
+#DESCRIPTION ------| Sport |------
 #SERVICE 1:0:19:E2D:7E4:2:11A0000:0:0:0:
 #SERVICE 1:0:19:C5E4:842:2:11A2D3E:0:0:0:
 #SERVICE 1:0:19:C5B2:831:2:11A0000:0:0:0:
@@ -29,8 +29,8 @@
 #SERVICE 1:0:19:1ABD:7E9:2:11A0000:0:0:0:
 #SERVICE 1:0:19:FF0:7ED:2:11A0000:0:0:0:
 #SERVICE 1:0:19:D7E8:82C:2:11A0000:0:0:0:
-#SERVICE 1:64:297:0:0:0:0:0:0:0::•••••| Movies |•••••
-#DESCRIPTION •••••| Movies |•••••
+#SERVICE 1:64:297:0:0:0:0:0:0:0::------| Movies |------
+#DESCRIPTION ------| Movies |------
 #SERVICE 1:0:19:1785:7EE:2:11A0000:0:0:0:
 #SERVICE 1:0:19:177E:7EE:2:11A0000:0:0:0:
 #SERVICE 1:0:19:EE8:7EE:2:11A0000:0:0:0:
@@ -45,8 +45,8 @@
 #SERVICE 1:0:19:145E:7D3:2:11A0000:0:0:0:
 #SERVICE 1:0:19:F15:7E9:2:11A0000:0:0:0:
 #SERVICE 1:0:19:149E:7E5:2:11A0000:0:0:0:
-#SERVICE 1:64:298:0:0:0:0:0:0:0::•••••| Entertainment |•••••
-#DESCRIPTION •••••| Entertainment |•••••
+#SERVICE 1:64:298:0:0:0:0:0:0:0::------| Entertainment |------
+#DESCRIPTION ------| Entertainment |------
 #SERVICE 1:0:19:16C7:7EB:2:11A0000:0:0:0:
 #SERVICE 1:0:19:13B2:7D3:2:11A0000:0:0:0:
 #SERVICE 1:0:19:17A0:7D3:2:11A0000:0:0:0:
@@ -60,8 +60,8 @@
 #SERVICE 1:0:19:F53:7F2:2:11A0000:0:0:0:
 #SERVICE 1:0:19:1971:7F2:2:11A0000:0:0:0:
 #SERVICE 1:0:19:FC0:7D3:2:11A0000:0:0:0:
-#SERVICE 1:64:299:0:0:0:0:0:0:0::•••••| General |•••••
-#DESCRIPTION •••••| General |•••••
+#SERVICE 1:64:299:0:0:0:0:0:0:0::------| General |------
+#DESCRIPTION ------| General |------
 #SERVICE 1:0:19:CF9E:83A:2:11A0000:0:0:0:
 #SERVICE 1:0:19:F0D:7E9:2:11A0000:0:0:0:
 #SERVICE 1:0:19:D7E7:82C:2:11A0000:0:0:0:
@@ -77,8 +77,8 @@
 #SERVICE 1:0:19:523A:83F:2:11A0000:0:0:0:
 #SERVICE 1:0:19:1430:7ED:2:11A0000:0:0:0:
 #SERVICE 1:0:19:186A:7D3:2:11A0000:0:0:0:
-#SERVICE 1:64:29A:0:0:0:0:0:0:0::•••••| Cultural • Nature |•••••
-#DESCRIPTION •••••| Cultural • Nature |•••••
+#SERVICE 1:64:29A:0:0:0:0:0:0:0::------| Cultural ★ Nature |------
+#DESCRIPTION ------| Cultural ★ Nature |------
 #SERVICE 1:0:19:1775:7ED:2:11A0000:0:0:0:
 #SERVICE 1:0:19:1793:7E5:2:11A0000:0:0:0:
 #SERVICE 1:0:19:F7C:7E9:2:11A0000:0:0:0:
@@ -87,18 +87,18 @@
 #SERVICE 1:0:19:F58:7E9:2:11A0000:0:0:0:
 #SERVICE 1:0:19:1410:7D3:2:11A0000:0:0:0:
 #SERVICE 1:0:19:1964:7EB:2:11A0000:0:0:0:
-#SERVICE 1:64:29B:0:0:0:0:0:0:0::•••••| Children |•••••
-#DESCRIPTION •••••| Children |•••••
+#SERVICE 1:64:29B:0:0:0:0:0:0:0::------| Children |------
+#DESCRIPTION ------| Children |------
 #SERVICE 1:0:19:3F1:7D8:2:11A0000:0:0:0:
 #SERVICE 1:0:19:F1D:7F2:2:11A0000:0:0:0:
 #SERVICE 1:0:19:1A41:834:2:11A0000:0:0:0:
-#SERVICE 1:64:29C:0:0:0:0:0:0:0::•••••| News |•••••
-#DESCRIPTION •••••| News |•••••
+#SERVICE 1:64:29C:0:0:0:0:0:0:0::------| News |------
+#DESCRIPTION ------| News |------
 #SERVICE 1:0:19:17A4:7E0:2:11A0000:0:0:0:
 #SERVICE 1:0:19:F0E:7E4:2:11A0000:0:0:0:
-#SERVICE 1:64:29D:0:0:0:0:0:0:0::•••••| Music |•••••
-#DESCRIPTION •••••| Music |•••••
+#SERVICE 1:64:29D:0:0:0:0:0:0:0::------| Music |------
+#DESCRIPTION ------| Music |------
 #SERVICE 1:0:19:1A42:834:2:11A0000:0:0:0:
-#SERVICE 1:64:0:0:0:0:0:0:0:0::•••••| Other |•••••
-#DESCRIPTION •••••| Other |•••••
+#SERVICE 1:64:0:0:0:0:0:0:0:0::------| Other |------
+#DESCRIPTION ------| Other |------
 #SERVICE 1:0:19:1A9A:7D3:2:11A0000:0:0:0:
