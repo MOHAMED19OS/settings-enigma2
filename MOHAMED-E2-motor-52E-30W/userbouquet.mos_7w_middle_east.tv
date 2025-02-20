@@ -1,8 +1,8 @@
 #NAME • 7,0 W - Middle East • الشرق الاوسط
 #SERVICE 1:64:59:0:0:0:0:0:0:0::------::| Egypt :★: مـصـر  |::------
 #DESCRIPTION ------::| Egypt :★: مـصـر  |::------
-#SERVICE 1:64:0:0:0:0:0:0:0:0::------| Cultural • Nature |------
-#DESCRIPTION ------| Cultural • Nature |------
+#SERVICE 1:64:0:0:0:0:0:0:0:0::------| Cultural ★ Nature |------
+#DESCRIPTION ------| Cultural ★ Nature |------
 #SERVICE 1:0:19:902:17:800:DCA0000:0:0:0:
 #SERVICE 1:0:1:1FA:5:800:DCA0000:0:0:0:
 #SERVICE 1:64:5A:0:0:0:0:0:0:0::------| Sport |------
